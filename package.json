@@ -1,0 +1,26 @@
+{
+  "name": "cplscripts",
+  "version": "0.1.0",
+  "description": "Set of scripts for doing tasks related to the CPL (Coach-Pupil League)",
+  "private": true,
+  "keywords": [],
+  "homepage": "https://github.com/msikma/cplscripts",
+  "repository": "git+https://github.com/msikma/cplscripts",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "scripts": {
+  },
+  "bin": {
+    "cplscripts": "index.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "dada-cli-tools": "^1.0.0",
+    "node-fetch": "^2.0.0"
+  }
+}
