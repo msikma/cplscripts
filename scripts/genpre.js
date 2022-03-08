@@ -2,6 +2,7 @@
 // © MIT license
 
 const path = require('path')
+const {getVodsLocal} = require('./getvods')
 const {loadJSON, genParticipants, formatData, toMwTemplate, generateGroupBox} = require('../lib')
 
 /**
@@ -39,8 +40,7 @@ function genMapNotice(weekNumber, mapName) {
  * 
  * We don't make use of the "inactive_players" value.
  */
-async function generatePreseasonResults(file) {
-  const weekNumber = 2
+async function generatePreseasonResults(file, seasonNumber = 8, weekNumber = 2) {
   const mapName = 'Eclipse'
   const singleMapNotice = genMapNotice(weekNumber, mapName)
 
@@ -48,6 +48,7 @@ async function generatePreseasonResults(file) {
   const dataX = await loadJSON(file)
   const data = {1: dataX[1], 2: dataX[2]}
 
+  const dataVods = await getVodsLocal(seasonNumber)
   const participantsSection =  genParticipants(data)
   const dataGroups = formatData(data)
 
@@ -63,7 +64,7 @@ async function generatePreseasonResults(file) {
   buffer.push(`===Results===`)
   buffer.push(toMwTemplate('Toggle group start', {state: 'show'}))
   buffer.push(toMwTemplate('Box', {padding: '2em'}, ['start']))
-  buffer.push(dataGroups.map(group => generateGroupBox(group)).join(`\n${toMwTemplate('Box', {padding: '4em'}, ['break'])}\n`))
+  buffer.push(dataGroups.map(group => generateGroupBox(group, seasonNumber, weekNumber, true, dataVods)).join(`\n${toMwTemplate('Box', {padding: '4em'}, ['break'])}\n`))
   buffer.push(toMwTemplate('Box', {}, ['end']))
   buffer.push(toMwTemplate('Toggle group end'))
   buffer.push(`<!-- end of generated results (${fileLocal}) -->`)
