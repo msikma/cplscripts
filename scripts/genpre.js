@@ -45,8 +45,7 @@ async function generatePreseasonResults(file, seasonNumber = 8, weekNumber = 2) 
   const singleMapNotice = genMapNotice(weekNumber, mapName)
 
   const fileLocal = path.basename(file).trim()
-  const dataX = await loadJSON(file)
-  const data = {1: dataX[1], 2: dataX[2]}
+  const data = await loadJSON(file)
 
   const dataVods = await getVodsLocal(seasonNumber)
   const participantsSection =  genParticipants(data)
@@ -64,7 +63,7 @@ async function generatePreseasonResults(file, seasonNumber = 8, weekNumber = 2) 
   buffer.push(`===Results===`)
   buffer.push(toMwTemplate('Toggle group start', {state: 'show'}))
   buffer.push(toMwTemplate('Box', {padding: '2em'}, ['start']))
-  buffer.push(dataGroups.map(group => generateGroupBox(group, seasonNumber, weekNumber, true, dataVods)).join(`\n${toMwTemplate('Box', {padding: '4em'}, ['break'])}\n`))
+  buffer.push(dataGroups.map(group => generateGroupBox(group, seasonNumber, weekNumber, true, dataVods)).join(`\n${toMwTemplate('Box', {padding: '2em'}, ['break'])}\n`))
   buffer.push(toMwTemplate('Box', {}, ['end']))
   buffer.push(toMwTemplate('Toggle group end'))
   buffer.push(`<!-- end of generated results (${fileLocal}) -->`)
