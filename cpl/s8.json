@@ -1,0 +1,72 @@
+{
+  "teamAliases": {
+    "GOSU": "Gloriously Overpowered Sexy Unicorns",
+    "UED": "United Emu Directorate",
+    "2F2F": "2 Fact 2 Furious"
+  },
+  "teams": [
+    {
+      "name": "Gloriously Overpowered Sexy Unicorns",
+      "titleAliases": ["GOSU"],
+      "useAliasInResults": true,
+      "tlLogoImage": "Gloriously_Overpowered_Sexy_Unicorns_CPLS8-T1_full_allmode.png"
+    },
+    {
+      "name": "Lettuce Attack",
+      "titleAliases": [],
+      "tlLogoImage": "Lettuce_Attack_CPLS8-T2_full_allmode.png"
+    },
+    {
+      "name": "4 Pool Lifeguards",
+      "titleAliases": [],
+      "tlLogoImage": "4_Pool_Lifeguards_CPLS8-T3_full_allmode.png"
+    },
+    {
+      "name": "2 Fact 2 Furious",
+      "titleAliases": ["2F2F"],
+      "tlLogoImage": "2_Fact_2_Furious_CPLS8-T4_full_allmode.png"
+    },
+    {
+      "name": "Korean Mechanics",
+      "titleAliases": [],
+      "tlLogoImage": "Korean_Mechanics_CPLS8-T5_full_allmode.png"
+    },
+    {
+      "name": "United Emu Directorate",
+      "titleAliases": ["UED"],
+      "tlLogoImage": "United_Emu_Directorate_CPLS8-T6_full_allmode.png"
+    }
+  ],
+  "preseason": {
+    "mapPool": {
+      "1": "Polypoid",
+      "2": "Eclipse"
+    }
+  },
+  "regularSeason": {
+    "weeks": {
+      "1": "2022-03-28",
+      "2": "2022-04-04",
+      "3": "2022-04-11",
+      "4": "2022-04-18",
+      "5": "2022-04-25",
+      "6": "2022-05-02",
+      "7": "2022-05-09",
+      "8": "2022-05-16",
+      "9": "2022-05-23",
+      "10": "2022-06-30"
+    },
+    "mapPool": {
+      "1": ["Neo Sylphid", "GOOD NIGHT", "Butter"],
+      "2": ["Butter", "Polypoid", "Eclipse"],
+      "3": ["Eclipse", "Neo Sylphid", "Polypoid"],
+      "4": ["GOOD NIGHT", "Eclipse", "Neo Sylphid"],
+      "5": ["Polypoid", "Butter", "GOOD NIGHT"],
+      "6": ["Butter", "Polypoid", "Eclipse"],
+      "7": ["GOOD NIGHT", "Eclipse", "Neo Sylphid"],
+      "8": ["Neo Sylphid", "GOOD NIGHT", "Butter"],
+      "9": ["Polypoid", "Butter", "GOOD NIGHT"],
+      "10": ["Eclipse", "Neo Sylphid", "Polypoid"]
+    }
+  }
+}
