@@ -1,7 +1,7 @@
 {
   "name": "cplscripts",
   "version": "0.2.0",
-  "description": "Set of scripts for doing tasks related to the StarCraft CPL (Coach-Pupil League)",
+  "description": "Utility for tasks related to the StarCraft CPL (Coach-Pupil League)",
   "private": true,
   "keywords": [],
   "homepage": "https://github.com/msikma/cplscripts",
