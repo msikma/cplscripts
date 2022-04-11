@@ -17,7 +17,11 @@ const parser = makeArgParser({
   description: ensurePeriod(pkgData.description)
 })
 
-parser.addArgument(['--cpls8-vods'], {help: 'Saves a JSON file of CPL S8 VODs from Youtube.', action: 'storeTrue', dest: 'getVodsCPLS8'})
-parser.addArgument(['--gen-pre'], {help: 'Generates and prints pre-season results from a JSON file.', metavar: 'PATH', dest: 'genPre'})
+parser.addArgument(['--cpl-vods'], {help: 'Saves a JSON file of CPL VODs from Youtube.', metavar: 'SEASON', dest: 'getVodsCPL'})
+parser.addArgument(['--cpl-stats'], {help: 'Prints statistics for a given CPL season.', metavar: 'SEASON', dest: 'getStatsCPL'})
+parser.addArgument(['--scrape-910map'], {help: 'Downloads maps from the ASL official map site.', action: 'storeTrue', dest: 'getASLMaps'})
+parser.addArgument(['--mw-gen-pre'], {help: 'Generates and prints pre-season results from a JSON file, and a given season and week.', metavar: ['PATH', 'SEASON', 'WEEK'], dest: 'genPre', nargs: 3})
+parser.addArgument(['--mw-gen-reg'], {help: 'Generates and prints regular season results from a JSON file, and a given season and week.', metavar: ['PATH', 'SEASON', 'WEEK'], dest: 'genReg', nargs: 3})
+parser.addArgument(['--mw-gen-vods'], {help: 'Generates and prints a list of all VODs.', metavar: 'SEASON', dest: 'genVods'})
 
 require('./main')({...parser.parseArgs()}, {parser, pkgData, baseDir: pkgPath})

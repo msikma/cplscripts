@@ -2,14 +2,28 @@
 // © MIT license
 
 const path = require('path')
-const {getVodsLocal} = require('./getvods')
-const {loadJSON, genParticipants, formatData, toMwTemplate, generateGroupBox} = require('../lib')
+const range = require('lodash.range')
+const {getVodsLocal} = require('./get-vods')
+const {loadJSON, genParticipants, formatData, toMwTemplate, generateGroupBox, getCPLSeasonData} = require('../lib')
 
 /**
  * Generates a notice text for the week's map.
  */
 function genMapNotice(weekNumber, mapName) {
   return `All games for week ${weekNumber} were played on [[${mapName}]].`
+}
+
+/**
+ * Returns a slice of the data for debugging purposes.
+ */
+function debugSlice(data, slice) {
+  if (!slice) return data
+  const slicedData = {}
+  const dataRange = range(...slice)
+  for (const n of dataRange) {
+    if (data[n]) slicedData[n] = data[n]
+  }
+  return slicedData
 }
 
 /**
@@ -40,12 +54,13 @@ function genMapNotice(weekNumber, mapName) {
  * 
  * We don't make use of the "inactive_players" value.
  */
-async function generatePreseasonResults(file, seasonNumber = 8, weekNumber = 2) {
-  const mapName = 'Eclipse'
+async function generatePreseasonResults(file, seasonNumber, weekNumber, debugDataSlice = null) {
+  const seasonData = await getCPLSeasonData(seasonNumber)
+  const mapName = seasonData.preseason.mapPool[weekNumber]
   const singleMapNotice = genMapNotice(weekNumber, mapName)
 
   const fileLocal = path.basename(file).trim()
-  const data = await loadJSON(file)
+  const data = debugSlice(await loadJSON(file), debugDataSlice)
 
   const dataVods = await getVodsLocal(seasonNumber)
   const participantsSection =  genParticipants(data)
@@ -63,7 +78,7 @@ async function generatePreseasonResults(file, seasonNumber = 8, weekNumber = 2) 
   buffer.push(`===Results===`)
   buffer.push(toMwTemplate('Toggle group start', {state: 'show'}))
   buffer.push(toMwTemplate('Box', {padding: '2em'}, ['start']))
-  buffer.push(dataGroups.map(group => generateGroupBox(group, seasonNumber, weekNumber, true, dataVods)).join(`\n${toMwTemplate('Box', {padding: '2em'}, ['break'])}\n`))
+  buffer.push(dataGroups.map(group => generateGroupBox('B', group, seasonNumber, weekNumber, true, dataVods)).join(`\n${toMwTemplate('Box', {padding: '2em'}, ['break'])}\n`))
   buffer.push(toMwTemplate('Box', {}, ['end']))
   buffer.push(toMwTemplate('Toggle group end'))
   buffer.push(`<!-- end of generated results (${fileLocal}) -->`)
