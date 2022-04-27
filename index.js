@@ -19,6 +19,7 @@ const parser = makeArgParser({
 
 parser.addArgument(['--cpl-vods'], {help: 'Saves a JSON file of CPL VODs from Youtube.', metavar: 'SEASON', dest: 'getVodsCPL'})
 parser.addArgument(['--cpl-stats'], {help: 'Prints statistics for a given CPL season.', metavar: 'SEASON', dest: 'getStatsCPL'})
+parser.addArgument(['--cpl-reps'], {help: 'Prints replay information for a given CPL season.', metavar: 'SEASON', dest: 'getRepStatsCPL'})
 parser.addArgument(['--scrape-910map'], {help: 'Downloads maps from the ASL official map site.', action: 'storeTrue', dest: 'getASLMaps'})
 parser.addArgument(['--mw-gen-pre'], {help: 'Generates and prints pre-season results from a JSON file, and a given season and week.', metavar: ['PATH', 'SEASON', 'WEEK'], dest: 'genPre', nargs: 3})
 parser.addArgument(['--mw-gen-reg'], {help: 'Generates and prints regular season results from a JSON file, and a given season and week.', metavar: ['PATH', 'SEASON', 'WEEK'], dest: 'genReg', nargs: 3})

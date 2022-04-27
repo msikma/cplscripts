@@ -6,6 +6,7 @@ const path = require('path')
 const {isPlainObject, isArray} = require('./lib')
 const {getVodsCPL} = require('./scripts/get-vods')
 const {getStatsCPL} = require('./scripts/get-stats')
+const {getRepStatsCPL} = require('./scripts/get-rep-stats')
 const {getASLMaps} = require('./scripts/get-asl-maps')
 const {generatePreseasonResults} = require('./scripts/gen-pre')
 const {generateRegularSeasonResults} = require('./scripts/gen-reg')
@@ -27,6 +28,9 @@ const main = async (args, {parser}) => {
   }
   else if (args.getStatsCPL) {
     return out(await getStatsCPL(args.getStatsCPL))
+  }
+  else if (args.getRepStatsCPL) {
+    return out(await getRepStatsCPL(args.getRepStatsCPL, path.resolve(path.join(__dirname, 'data', 'replays'))))
   }
   else if (args.genPre) {
     return out(await generatePreseasonResults(args.genPre[0], ...args.genPre.slice(1, 3).map(n => Number(n))))
