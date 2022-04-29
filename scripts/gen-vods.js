@@ -20,7 +20,7 @@ function categorizeVods(dataVods) {
     else if (vod.meta.isPreseason) {
       vodCats.preseason.push(vod)
     }
-    else if (!vod.meta.isPreseason && vod.meta.tier !== null) {
+    else if (!vod.meta.isPreseason && vod.meta.tiers.length > 0) {
       vodCats.regular.push(vod)
     }
     else {
