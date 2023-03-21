@@ -1,6 +1,7 @@
 // cplscripts <https://github.com/msikma/cplscripts>
 // © MIT license
 
+const pick = require('lodash.pick')
 const sortBy = require('lodash.sortBy')
 const {getCPLSeasonData, getCPLSeasonAllWeekResults} = require('../lib')
 
@@ -34,7 +35,7 @@ async function getTeamPlayersListCPL(season) {
             const team = teams[teamMatchup[`team${player}`]]
             const playerData = match[`player${player}`]
             if (!team.players[playerData.name]) {
-              team.players[playerData.name] = playerData
+              team.players[playerData.name] = pick(playerData, ['name', 'race', 'tier'])
             }
           }
         }
