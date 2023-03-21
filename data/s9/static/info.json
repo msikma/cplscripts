@@ -1,0 +1,90 @@
+{
+  "seasonNumber": "9",
+  "teams": [
+    {
+      "name": "Cry Me a Reaver",
+      "emoji": ["🐛"],
+      "titleAliases": ["CRY"],
+      "tlLogoImage": "Cry_Me_a_Reaver_CPLS9-T1_full_allmode.png"
+    },
+    {
+      "name": "Cattlebruisers",
+      "emoji": ["🐮"],
+      "titleAliases": ["CB"],
+      "tlLogoImage": "Cattlebruisers_CPLS9-T2_full_allmode.png"
+    },
+    {
+      "name": "Fightin' Aiurish",
+      "emoji": ["🍀"],
+      "titleAliases": ["FA"],
+      "tlLogoImage": "Fighting_Aiurish_CPLS9-T3_full_allmode.png"
+    },
+    {
+      "name": "The Notorious S.C.V.",
+      "emoji": ["👑"],
+      "titleAliases": ["SCV"],
+      "tlLogoImage": "The_Notorious_SCV_CPLS9-T4_full_allmode.png"
+    },
+    {
+      "name": "Jin Jin and the Pand0r Patrol",
+      "emoji": ["🐼"],
+      "titleAliases": ["JJPP"],
+      "useAliasInResults": true,
+      "tlLogoImage": "Jin_Jin_and_the_Pand0r_Patrol_CPLS9-T5_full_allmode.png"
+    },
+    {
+      "name": "South East Asian Laggers",
+      "emoji": ["🦭"],
+      "titleAliases": ["SEAL"],
+      "useAliasInResults": true,
+      "tlLogoImage": "South_East_Asian_Laggers_CPLS9-T6_full_allmode.png"
+    }
+  ],
+  "dates": {
+    "start": "2022-12-05",
+    "end": "2023-04-16"
+  },
+  "preseason": {
+    "mapPool": {
+      "1": "Polypoid",
+      "2": "Eclipse"
+    }
+  },
+  "regularSeason": {
+    "weeks": {
+      "1": "2023-01-09",
+      "2": "2023-01-16",
+      "3": "2023-01-23",
+      "4": "2023-01-30",
+      "5": "2023-02-06",
+      "6": "2023-02-13",
+      "7": "2023-02-20",
+      "8": "2023-02-27",
+      "9": "2023-03-06",
+      "10": "2023-03-13"
+    },
+    "mapPool": {
+      "1": ["Vermeer", "Ascension", "Eclipse"],
+      "2": ["Neo Sylphid", "Butter", "Polypoid"],
+      "3": ["Vermeer", "Eclipse", "Butter"],
+      "4": ["Polypoid", "Butter", "Neo Sylphid"],
+      "5": ["Neo Sylphid", "Ascension", "Eclipse"],
+      "6": ["Butter", "Polypoid", "Vermeer"],
+      "7": ["Ascension", "Neo Sylphid", "Eclispe"],
+      "8": ["Polypoid", "Vermeer", "Ascension"],
+      "9": ["Ascension", "Butter", "Polypoid"],
+      "10": ["Eclipse", "Vermeer", "Neo Sylphid"]
+    }
+  },
+  "playoffs": {
+    "weeks": {
+      "1": "2023-03-27",
+      "2": "2023-04-03",
+      "3": "2023-04-10"
+    },
+    "mapPool": {
+    },
+    "results": [
+    ]
+  }
+}

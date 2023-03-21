@@ -1,0 +1,52 @@
+{
+  "teams": {
+    "GOSU": {
+      "mostImprovedPlayers": {
+        "0": "ash.Return",
+        "1": "Jess",
+        "2": "k1mura",
+        "3": "Finalsky"
+      }
+    },
+    "LA": {
+      "mostImprovedPlayers": {
+        "0": "ViR[ReV]",
+        "1": "Crowbar",
+        "2": "Leonix",
+        "3": "SHimmer[ReV]"
+      }
+    },
+    "4PL": {
+      "mostImprovedPlayers": {
+        "0": "Diggurd",
+        "1": "balance",
+        "2": "Justice",
+        "3": "elpinguino_"
+      }
+    },
+    "2F2F": {
+      "mostImprovedPlayers": {
+        "0": "Soh",
+        "1": "lanaishot",
+        "2": "Slip_It_In_CIDER",
+        "3": "Phenix2470"
+      }
+    },
+    "KM": {
+      "mostImprovedPlayers": {
+        "0": "iRk-tarpman",
+        "1": "Azhi Dahaki",
+        "2": "NiteKat",
+        "3": "Triple T"
+      }
+    },
+    "UED": {
+      "mostImprovedPlayers": {
+        "0": "Nagnar",
+        "1": "Zesky",
+        "2": "RabbitRoo",
+        "3": "Jarcino"
+      }
+    }
+  }
+}

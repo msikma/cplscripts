@@ -1,0 +1,6620 @@
+{
+  "1": [
+    {
+      "player1": {
+        "name": "Troggbomb",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Slip_It_In_CIDER",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "Troggbomb"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Troggbomb",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "franc",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Troggbomb",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "nerfingen",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "Troggbomb"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Troggbomb",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "DeadDumble",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "Troggbomb"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Slip_It_In_CIDER",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "franc",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Slip_It_In_CIDER",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "nerfingen",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Slip_It_In_CIDER",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "DeadDumble",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "franc",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "nerfingen",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "franc",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "DeadDumble",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nerfingen",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "DeadDumble",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "2": [
+    {
+      "player1": {
+        "name": "rdn_user",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Flipendo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "rdn_user",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Axis",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "rdn_user",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Insomniac313",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "rdn_user",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Brainojack",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flipendo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Axis",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flipendo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Insomniac313",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flipendo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brainojack",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Axis",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Insomniac313",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Axis",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brainojack",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Insomniac313",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brainojack",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "3": [
+    {
+      "player1": {
+        "name": "SirenM",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "SHimmer[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirenM",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Lethiian",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirenM",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JtotheT",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirenM",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "dim",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SHimmer[ReV]",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Lethiian",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SHimmer[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "JtotheT",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SHimmer[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "dim",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Lethiian",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "JtotheT",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Lethiian",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "dim",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JtotheT",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "dim",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "4": [
+    {
+      "player1": {
+        "name": "Kalakus",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "janpol",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "janpol"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Kalakus",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "user74003",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Kalakus",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Gusto",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Kalakus",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "HM3yer",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "janpol",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "user74003",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "janpol"
+      ]
+    },
+    {
+      "player1": {
+        "name": "janpol",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Gusto",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "janpol"
+      ]
+    },
+    {
+      "player1": {
+        "name": "janpol",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "HM3yer",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "janpol"
+      ]
+    },
+    {
+      "player1": {
+        "name": "user74003",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Gusto",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "user74003",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "HM3yer",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Gusto",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "HM3yer",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "5": [
+    {
+      "player1": {
+        "name": "Ninjax",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Zoey[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ninjax",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Phenix2470",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ninjax",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jas",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ninjax",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "10T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zoey[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Phenix2470",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zoey[ReV]",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Jas",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zoey[ReV]",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "10T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Phenix2470",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jas",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Phenix2470",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "10T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jas",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "10T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "6": [
+    {
+      "player1": {
+        "name": "Bandit",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Rotonda",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bandit",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "DeadInfested",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bandit",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "NoobyNevie",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bandit",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Triple T",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Rotonda",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "DeadInfested",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Rotonda",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "NoobyNevie",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Rotonda",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Triple T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "DeadInfested",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "NoobyNevie",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "DeadInfested",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Triple T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "NoobyNevie",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Triple T",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "7": [
+    {
+      "player1": {
+        "name": "Peru",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "dada78641",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Peru",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "hurler",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Peru",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Champian",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Peru",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "bociousY2Kid",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "bociousY2Kid"
+      ]
+    },
+    {
+      "player1": {
+        "name": "dada78641",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "hurler",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "dada78641",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Champian",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "dada78641",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "bociousY2Kid",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "bociousY2Kid"
+      ]
+    },
+    {
+      "player1": {
+        "name": "hurler",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Champian",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "hurler",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "bociousY2Kid",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "bociousY2Kid"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Champian",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "bociousY2Kid",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "bociousY2Kid"
+      ]
+    }
+  ],
+  "8": [
+    {
+      "player1": {
+        "name": "nOm.Esk4l4de",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Apalemorning",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Esk4l4de",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "FuzzyBranch",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Esk4l4de",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Marmo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Esk4l4de",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "A Bug",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Apalemorning",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "FuzzyBranch",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Apalemorning",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Marmo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Apalemorning",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "A Bug",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FuzzyBranch",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Marmo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FuzzyBranch",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "A Bug",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Marmo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "A Bug",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "9": [
+    {
+      "player1": {
+        "name": "ET",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "RabbitRoo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ET",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Vaclavson",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ET",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "WRYL",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ET",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Archiphres",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "RabbitRoo",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Vaclavson",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "RabbitRoo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "WRYL",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "RabbitRoo",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Archiphres",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Vaclavson",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "WRYL",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Vaclavson",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Archiphres",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WRYL",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Archiphres",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "10": [
+    {
+      "player1": {
+        "name": "Effay",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "TekAjpu",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Effay",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "CPTCrunk",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Effay",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "mawthu",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Effay",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "JayBulworth",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "TekAjpu",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "CPTCrunk",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "TekAjpu",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "mawthu",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "TekAjpu",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JayBulworth",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "CPTCrunk",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "mawthu",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "CPTCrunk",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JayBulworth",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "CPTCrunk"
+      ]
+    },
+    {
+      "player1": {
+        "name": "mawthu",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "JayBulworth",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "11": [
+    {
+      "player1": {
+        "name": "lanaishot",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "apples",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "lanaishot",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "FakeFin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "lanaishot",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JoSh",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "lanaishot",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "OttoRemmer",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "apples",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "FakeFin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "apples",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JoSh",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "apples",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "OttoRemmer",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FakeFin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JoSh",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FakeFin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "OttoRemmer",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JoSh",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "OttoRemmer",
+        "race": "Declared Weekly",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "12": [
+    {
+      "player1": {
+        "name": "WindWard42",
+        "race": "Declared Weekly",
+        "score": 0
+      },
+      "player2": {
+        "name": "elevati0n",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "WindWard42"
+      ]
+    },
+    {
+      "player1": {
+        "name": "WindWard42",
+        "race": "Declared Weekly",
+        "score": 0
+      },
+      "player2": {
+        "name": "Reid",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WindWard42",
+        "race": "Declared Weekly",
+        "score": 0
+      },
+      "player2": {
+        "name": "Finalsky",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "WindWard42"
+      ]
+    },
+    {
+      "player1": {
+        "name": "WindWard42",
+        "race": "Declared Weekly",
+        "score": 0
+      },
+      "player2": {
+        "name": "Herold",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "WindWard42"
+      ]
+    },
+    {
+      "player1": {
+        "name": "elevati0n",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Reid",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "elevati0n",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Finalsky",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "elevati0n",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Herold",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Reid",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Finalsky",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Reid",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Herold",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Finalsky",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Herold",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "13": [
+    {
+      "player1": {
+        "name": "WhiskeyDingo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jsteh19",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WhiskeyDingo",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Blechfaust",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WhiskeyDingo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Mazer",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WhiskeyDingo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Rhommulus",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jsteh19",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Blechfaust",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jsteh19",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Mazer",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jsteh19",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Rhommulus",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Blechfaust",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Mazer",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Blechfaust",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Rhommulus",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Mazer",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Rhommulus",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "14": [
+    {
+      "player1": {
+        "name": "NiteKat",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Justice",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "NiteKat",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Red.QuaD",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "NiteKat",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Bagelpirate",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "NiteKat",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-ocoini",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Justice",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Red.QuaD",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Justice",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Bagelpirate",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Justice",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-ocoini",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Red.QuaD",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Bagelpirate",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Red.QuaD",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-ocoini",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bagelpirate",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-ocoini",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "15": [
+    {
+      "player1": {
+        "name": "FakePromise",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Manadog",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FakePromise",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Suricatta",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FakePromise",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "VeryBerry",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FakePromise",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "NicePants",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Manadog",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Suricatta",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Manadog",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "VeryBerry",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Manadog",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "NicePants",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Suricatta",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "VeryBerry",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Suricatta",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "NicePants",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "VeryBerry",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "NicePants",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "16": [
+    {
+      "player1": {
+        "name": "Mutaller",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "grimZ",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Mutaller",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Scimo__",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Mutaller",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Ksyperbg",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Mutaller",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "mG[Qu3eN]",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "grimZ",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Scimo__",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "grimZ",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Ksyperbg",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "grimZ",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "mG[Qu3eN]",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Scimo__",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Ksyperbg",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Scimo__",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "mG[Qu3eN]",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ksyperbg",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "mG[Qu3eN]",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "17": [
+    {
+      "player1": {
+        "name": "nOm.Charact_R",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "benno",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Charact_R",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.viletomato",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Charact_R",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "TaDDe",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Charact_R",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "MaybeNextTime",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "benno",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.viletomato",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "benno",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "TaDDe",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "benno",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "MaybeNextTime",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.viletomato",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "TaDDe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.viletomato",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "MaybeNextTime",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "TaDDe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "MaybeNextTime",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "18": [
+    {
+      "player1": {
+        "name": "Alisa",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRK-CamoDaz",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Alisa",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "ncx",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Alisa",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Slayer",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Alisa",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JustBorisu",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRK-CamoDaz",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "ncx",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRK-CamoDaz",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Slayer",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRK-CamoDaz",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "JustBorisu",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ncx",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "player2": {
+        "name": "Slayer",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ncx",
+        "race": "Declared Weekly",
+        "score": 1
+      },
+      "player2": {
+        "name": "JustBorisu",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Slayer",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JustBorisu",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "19": [
+    {
+      "player1": {
+        "name": "packrat386",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "YoitsFlash",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "packrat386",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Hugin",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "packrat386",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Ami`Ashen",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "packrat386",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Arcanewinds",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "YoitsFlash",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Hugin",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "YoitsFlash",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Ami`Ashen",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "YoitsFlash",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Arcanewinds",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Hugin",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Ami`Ashen",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Hugin",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Arcanewinds",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ami`Ashen",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Arcanewinds",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "20": [
+    {
+      "player1": {
+        "name": "GeforceTesla",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Cenderze",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "GeforceTesla",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "shiversandmilk",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "GeforceTesla",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "iamsacul",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "GeforceTesla",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "le0thelion",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cenderze",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "shiversandmilk",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cenderze",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "iamsacul",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cenderze",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "le0thelion",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "shiversandmilk",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "iamsacul",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "shiversandmilk",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "le0thelion",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iamsacul",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "le0thelion",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "21": [
+    {
+      "player1": {
+        "name": "Crowbar",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Cynan",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Crowbar",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "yellowjack",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": [
+        "yellowjack"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Crowbar",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "DV1.Karuzel",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Crowbar",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Inteon",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cynan",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "yellowjack",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cynan",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "DV1.Karuzel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Cynan",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Inteon",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "yellowjack",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "DV1.Karuzel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "yellowjack"
+      ]
+    },
+    {
+      "player1": {
+        "name": "yellowjack",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Inteon",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "DV1.Karuzel",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Inteon",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "22": [
+    {
+      "player1": {
+        "name": "bekrul",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "M4ND4L0R3",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "bekrul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "EskiyaPRIME",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "bekrul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "HellaBacon",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "bekrul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Diggurd",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "M4ND4L0R3",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "EskiyaPRIME",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "M4ND4L0R3",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "HellaBacon",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "M4ND4L0R3",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Diggurd",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "EskiyaPRIME",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "HellaBacon",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "EskiyaPRIME",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Diggurd",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "HellaBacon",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Diggurd",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "23": [
+    {
+      "player1": {
+        "name": "SirGlinG",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Sva3",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirGlinG",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Leonix",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirGlinG",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Aszriel",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SirGlinG",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kanzaki_Ranko",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sva3",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Leonix",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sva3",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Aszriel",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sva3",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kanzaki_Ranko",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Leonix",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Aszriel",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Leonix",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kanzaki_Ranko",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Aszriel",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kanzaki_Ranko",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "24": [
+    {
+      "player1": {
+        "name": "FridgeRaider",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "LizardKingly",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FridgeRaider",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Deathstar",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FridgeRaider",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "PrG)Krespy",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "FridgeRaider",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "ocelotter",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "LizardKingly",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Deathstar",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "LizardKingly",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "PrG)Krespy",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "LizardKingly",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "ocelotter",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Deathstar",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "PrG)Krespy",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Deathstar",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "player2": {
+        "name": "ocelotter",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "PrG)Krespy",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "ocelotter",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "25": [
+    {
+      "player1": {
+        "name": "Frog",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Taranack",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Frog",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "LeaSt",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Frog",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "blobfish",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Frog",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "JustoLamas",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Taranack",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "LeaSt",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Taranack",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "blobfish",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Taranack",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "JustoLamas",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "LeaSt",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "blobfish",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "LeaSt",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "JustoLamas",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "blobfish",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "JustoLamas",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "26": [
+    {
+      "player1": {
+        "name": "dbootyz",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Zesky",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "dbootyz",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Ami`Theseus",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "dbootyz",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "BerryGoRound",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "dbootyz",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-szini",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zesky",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Ami`Theseus",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zesky",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "BerryGoRound",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Zesky",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-szini",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ami`Theseus",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "BerryGoRound",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Ami`Theseus",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-szini",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "BerryGoRound",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-szini",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "27": [
+    {
+      "player1": {
+        "name": "iRk-tarpman",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "cold_warpgates",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-tarpman",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "arcade+",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-tarpman",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Kraazy",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-tarpman",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "SiRe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "SiRe"
+      ]
+    },
+    {
+      "player1": {
+        "name": "cold_warpgates",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "arcade+",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "cold_warpgates",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kraazy",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "cold_warpgates",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "SiRe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "SiRe"
+      ]
+    },
+    {
+      "player1": {
+        "name": "arcade+",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kraazy",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "arcade+",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "SiRe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "SiRe"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Kraazy",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "SiRe",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "SiRe"
+      ]
+    }
+  ],
+  "28": [
+    {
+      "player1": {
+        "name": "Forte",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Flizzardo",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Forte",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Bojack",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Forte",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-_CoZ",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Forte",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brownmamba69",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flizzardo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Bojack",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flizzardo",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-_CoZ",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Flizzardo",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brownmamba69",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bojack",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-_CoZ",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Bojack",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Brownmamba69",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-_CoZ",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Brownmamba69",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "29": [
+    {
+      "player1": {
+        "name": "Havior",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "2sxy4u",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Havior",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Sirref",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Havior",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Vermin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Havior",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "TheTimberOwl",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "2sxy4u",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Sirref",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "2sxy4u",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Vermin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "2sxy4u",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "TheTimberOwl",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sirref",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Vermin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sirref",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "TheTimberOwl",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Vermin",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "TheTimberOwl",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "30": [
+    {
+      "player1": {
+        "name": "WugsaW",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Kaykoose",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WugsaW",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Supervisor",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WugsaW",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "fullheart",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "WugsaW",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "PancakePrincess",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Kaykoose",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Supervisor",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Kaykoose",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "fullheart",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Kaykoose",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "PancakePrincess",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Supervisor",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "fullheart",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Supervisor",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "PancakePrincess",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "fullheart",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "PancakePrincess",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "31": [
+    {
+      "player1": {
+        "name": "balance",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "attentat",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "balance",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Fosho",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "balance",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "polarice",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "balance",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "maaaaxaxa",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "attentat",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Fosho",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "attentat",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "polarice",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "attentat",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "maaaaxaxa",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Fosho",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "polarice",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Fosho",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "maaaaxaxa",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "polarice",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "maaaaxaxa",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "32": [
+    {
+      "player1": {
+        "name": "ash.Baal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "HatcheryCake",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash.Baal",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Naka",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash.Baal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-stanel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash.Baal",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "[TA]Scaramanga",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "HatcheryCake",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Naka",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "HatcheryCake",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-stanel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "HatcheryCake",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "[TA]Scaramanga",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Naka",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-stanel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Naka",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "[TA]Scaramanga",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-stanel",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "[TA]Scaramanga",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "33": [
+    {
+      "player1": {
+        "name": "McSmush",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "player2": {
+        "name": "Sloth",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "McSmush",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Primal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "McSmush",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jess",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "McSmush",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "player2": {
+        "name": "RedAxis",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sloth",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Primal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sloth",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jess",
+        "race": "Race Picker",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sloth",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "RedAxis",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Primal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Jess",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Primal",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "RedAxis",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jess",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "RedAxis",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "34": [
+    {
+      "player1": {
+        "name": "y2kid",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JiffyMix",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "y2kid",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "ash.Return",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "y2kid",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Chill",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "y2kid",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Whyimnoob",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JiffyMix",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "ash.Return",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JiffyMix",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Chill",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JiffyMix",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Whyimnoob",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash.Return",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Chill",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash.Return",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Whyimnoob",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Chill",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Whyimnoob",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "35": [
+    {
+      "player1": {
+        "name": "Nagnar",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "advil",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Nagnar",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "SesioM",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Nagnar",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Azhi Dahaki",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Nagnar",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.MoOnrai",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "advil",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "SesioM",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "advil",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Azhi Dahaki",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "advil",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.MoOnrai",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SesioM",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Azhi Dahaki",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SesioM",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.MoOnrai",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Azhi Dahaki",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.MoOnrai",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    }
+  ],
+  "36": [
+    {
+      "player1": {
+        "name": "BoldEgul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "myfleetingdream",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "BoldEgul",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "earob",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "BoldEgul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "SOStoss",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "BoldEgul",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "groose",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "myfleetingdream",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "earob",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "myfleetingdream",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "SOStoss",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "myfleetingdream",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "groose",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "earob",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "SOStoss",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "earob",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "groose",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SOStoss",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "groose",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "37": [
+    {
+      "player1": {
+        "name": "Type100",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-AgGe",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Type100",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jellymang",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Type100",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-RoyalBlue",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Type100",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "nxsf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-AgGe",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "Jellymang",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-AgGe",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-RoyalBlue",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-AgGe",
+        "race": "Race Picker",
+        "score": 0
+      },
+      "player2": {
+        "name": "nxsf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jellymang",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "iRk-RoyalBlue",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Jellymang",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "nxsf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-RoyalBlue",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "nxsf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "38": [
+    {
+      "player1": {
+        "name": "pand0r",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "ash-ZakRoM",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "pand0r",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk_iReve",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "pand0r",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "lightswarm",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "pand0r",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Melody",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash-ZakRoM",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk_iReve",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash-ZakRoM",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "lightswarm",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ash-ZakRoM",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Melody",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk_iReve",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "lightswarm",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk_iReve",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Melody",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "lightswarm",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Melody",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "39": [
+    {
+      "player1": {
+        "name": "mG[FLoW]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Hangs",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "mG[FLoW]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "TToSS",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "mG[FLoW]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "haf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "mG[FLoW]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "caffeine_free",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "caffeine_free"
+      ]
+    },
+    {
+      "player1": {
+        "name": "Hangs",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "TToSS",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Hangs",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "haf",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Hangs",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "caffeine_free",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "caffeine_free"
+      ]
+    },
+    {
+      "player1": {
+        "name": "TToSS",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "haf",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "TToSS",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "caffeine_free",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "caffeine_free"
+      ]
+    },
+    {
+      "player1": {
+        "name": "haf",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "caffeine_free",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": true,
+      "draw": false,
+      "inactive_players": [
+        "caffeine_free"
+      ]
+    }
+  ],
+  "40": [
+    {
+      "player1": {
+        "name": "SpeciaLisT",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "iRk-Supperman",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SpeciaLisT",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "ErOs_Koaty",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SpeciaLisT",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JoJo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SpeciaLisT",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "mG[AegiS]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-Supperman",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "ErOs_Koaty",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-Supperman",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "JoJo",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "iRk-Supperman",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "mG[AegiS]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ErOs_Koaty",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "JoJo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ErOs_Koaty",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "mG[AegiS]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "JoJo",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "mG[AegiS]",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "41": [
+    {
+      "player1": {
+        "name": "Neblime",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "naklar",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Neblime",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Art_Of_Turtle",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Neblime",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Exit",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Neblime",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "ViR[ReV]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "naklar",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Art_Of_Turtle",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "naklar",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Exit",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "naklar",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "ViR[ReV]",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Art_Of_Turtle",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Exit",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Art_Of_Turtle",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "ViR[ReV]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Exit",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "ViR[ReV]",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "42": [
+    {
+      "player1": {
+        "name": "Dentarg",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.XUN",
+        "race": "Zerg",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Dentarg",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "doLife",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Dentarg",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "nOm.Lovesnow",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Dentarg",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "Zen",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.XUN",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "doLife",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.XUN",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.Lovesnow",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.XUN",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Zen",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "doLife",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "nOm.Lovesnow",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "doLife",
+        "race": "Terran",
+        "score": 0
+      },
+      "player2": {
+        "name": "Zen",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "nOm.Lovesnow",
+        "race": "Terran",
+        "score": 1
+      },
+      "player2": {
+        "name": "Zen",
+        "race": "Protoss",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "43": [
+    {
+      "player1": {
+        "name": "Sony",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "SR.Jedi_One",
+        "race": "Protoss",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sony",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "ttKinetic",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "Sony",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kik0",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SR.Jedi_One",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "ttKinetic",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "SR.Jedi_One",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "Kik0",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "ttKinetic",
+        "race": "Zerg",
+        "score": 1
+      },
+      "player2": {
+        "name": "Kik0",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ],
+  "44": [
+    {
+      "player1": {
+        "name": "DoodleDoodle",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "george",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "DoodleDoodle",
+        "race": "Protoss",
+        "score": 0
+      },
+      "player2": {
+        "name": "yenta",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "DoodleDoodle",
+        "race": "Protoss",
+        "score": 1
+      },
+      "player2": {
+        "name": "nOm.Caravaggio",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "george",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "yenta",
+        "race": "Zerg",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "george",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.Caravaggio",
+        "race": "Terran",
+        "score": 0
+      },
+      "walkover": false,
+      "draw": true,
+      "inactive_players": []
+    },
+    {
+      "player1": {
+        "name": "yenta",
+        "race": "Zerg",
+        "score": 0
+      },
+      "player2": {
+        "name": "nOm.Caravaggio",
+        "race": "Terran",
+        "score": 1
+      },
+      "walkover": false,
+      "draw": false,
+      "inactive_players": []
+    }
+  ]
+}

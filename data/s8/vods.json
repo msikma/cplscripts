@@ -1,0 +1,5274 @@
+{
+  "title": "CPL S8",
+  "videos": [
+    {
+      "id": "nzAW9CWv3iQ",
+      "title": "CPL S8 Coach Showmatch - Oya vs Sziky (PvZ)",
+      "views": 62,
+      "likes": 3,
+      "upload": "2022-02-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "37:52",
+      "lengthSeconds": 2272,
+      "url": "https://www.youtube.com/watch?v=nzAW9CWv3iQ",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": true,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "nmOpRU5sUw4",
+      "title": "CPL S8 Coach Showmatch - Razz vs Wolfix (PvT)",
+      "views": 37,
+      "likes": 1,
+      "upload": "2022-02-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:09:40",
+      "lengthSeconds": 4180,
+      "url": "https://www.youtube.com/watch?v=nmOpRU5sUw4",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": true,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "MtfeLLQPq70",
+      "title": "CPL Season 8 Hype Video",
+      "views": 490,
+      "likes": 32,
+      "upload": "2022-01-30T00:00:00.000Z",
+      "comments": 2,
+      "length": "2:27",
+      "lengthSeconds": 147,
+      "url": "https://www.youtube.com/watch?v=MtfeLLQPq70",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": true
+      }
+    },
+    {
+      "id": "Fh60uYT3Qbo",
+      "title": "CPL S8 BEGINS! Preseason Week 1, G19 and G29 - Cast by Saetzero and Neblime",
+      "views": 45,
+      "likes": 4,
+      "upload": "2022-02-25T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:45:11",
+      "lengthSeconds": 9911,
+      "url": "https://www.youtube.com/watch?v=Fh60uYT3Qbo",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            19
+          ],
+          [
+            1,
+            29
+          ]
+        ],
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "6RejBO0BxhI",
+      "title": "CPL S8 Preseason Week 1, G38 and G14 - Cast by Neblime and cold_warpgates",
+      "views": 82,
+      "likes": 6,
+      "upload": "2022-02-25T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:52:07",
+      "lengthSeconds": 10327,
+      "url": "https://www.youtube.com/watch?v=6RejBO0BxhI",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            38
+          ],
+          [
+            1,
+            14
+          ]
+        ],
+        "casters": [
+          "Neblime",
+          "cold_warpgates"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "WjQT_sK0s1k",
+      "title": "CPL S8 Preseason Week 1, G1 and G4 - Cast by Scimo and Charact_R",
+      "views": 22,
+      "likes": 1,
+      "upload": "2022-02-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:18:10",
+      "lengthSeconds": 8290,
+      "url": "https://www.youtube.com/watch?v=WjQT_sK0s1k",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            4
+          ]
+        ],
+        "casters": [
+          "Scimo",
+          "Charact_R"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "MyxvibdRqxM",
+      "title": "CPL S8 Preseason Week 1, G17 and G35 - Cast by Esk4l4d3, Xun and AK_E3",
+      "views": 23,
+      "likes": 2,
+      "upload": "2022-02-28T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:29:30",
+      "lengthSeconds": 12570,
+      "url": "https://www.youtube.com/watch?v=MyxvibdRqxM",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            17
+          ],
+          [
+            1,
+            35
+          ]
+        ],
+        "casters": [
+          "Esk4l4d3",
+          "Xun",
+          "AK_E3"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Ig4lVRvpdlc",
+      "title": "CPL S8 Preseason Week 1, G7, G27 and G36 - Cast by Scimo and Charact_R",
+      "views": 44,
+      "likes": 1,
+      "upload": "2022-02-28T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:28:04",
+      "lengthSeconds": 16084,
+      "url": "https://www.youtube.com/watch?v=Ig4lVRvpdlc",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            7
+          ],
+          [
+            1,
+            27
+          ],
+          [
+            1,
+            36
+          ]
+        ],
+        "casters": [
+          "Scimo",
+          "Charact_R"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "wLF_wxOqIiQ",
+      "title": "CPL S8 Preseason Week 2, G22 and G33 - Cast by Saetzero and Neblime",
+      "views": 17,
+      "likes": 1,
+      "upload": "2022-03-03T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:34:23",
+      "lengthSeconds": 9263,
+      "url": "https://www.youtube.com/watch?v=wLF_wxOqIiQ",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            22
+          ],
+          [
+            2,
+            33
+          ]
+        ],
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "VtYk6sbgleU",
+      "title": "CPL S8 Preseason Week 2, G16 - Cast by Neblime and Saetzero",
+      "views": 16,
+      "likes": 0,
+      "upload": "2022-03-03T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:33:02",
+      "lengthSeconds": 9182,
+      "url": "https://www.youtube.com/watch?v=VtYk6sbgleU",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            16
+          ]
+        ],
+        "casters": [
+          "Neblime",
+          "Saetzero"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "lmuIomAmPx8",
+      "title": "CPL S8 Preseason Week 2, G15 - Cast by NiteKat",
+      "views": 27,
+      "likes": 2,
+      "upload": "2022-03-04T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:18:08",
+      "lengthSeconds": 8288,
+      "url": "https://www.youtube.com/watch?v=lmuIomAmPx8",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            15
+          ]
+        ],
+        "casters": [
+          "NiteKat"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "1KgSsbxxM4w",
+      "title": "CPL S8 Preseason Week 2, G11 and G35 - Cast by Ashen and LeaSt",
+      "views": 65,
+      "likes": 3,
+      "upload": "2022-03-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:50:31",
+      "lengthSeconds": 10231,
+      "url": "https://www.youtube.com/watch?v=1KgSsbxxM4w",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            11
+          ],
+          [
+            2,
+            35
+          ]
+        ],
+        "casters": [
+          "Ashen",
+          "LeaSt"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "8bzeazam28M",
+      "title": "CPL S8 Preseason Week 2, G8 and G28 - Cast by Scimo (1/2)",
+      "views": 18,
+      "likes": 2,
+      "upload": "2022-03-07T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:03:55",
+      "lengthSeconds": 11035,
+      "url": "https://www.youtube.com/watch?v=8bzeazam28M",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            28
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "msi9kM4v6g0",
+      "title": "CPL S8 Preseason Week 2, G8 and G28 - Cast by Scimo (2/2)",
+      "views": 11,
+      "likes": 2,
+      "upload": "2022-03-07T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:01:26",
+      "lengthSeconds": 3686,
+      "url": "https://www.youtube.com/watch?v=msi9kM4v6g0",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            28
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "lXVng2wDEUg",
+      "title": "CPL S8 Preseason Week 2, G1 and G36 - Cast by Scimo",
+      "views": 15,
+      "likes": 1,
+      "upload": "2022-03-07T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:12:53",
+      "lengthSeconds": 11573,
+      "url": "https://www.youtube.com/watch?v=lXVng2wDEUg",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            36
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "3mMaiHK9Kyo",
+      "title": "CPL S8 RACE WARS!",
+      "views": 26,
+      "likes": 1,
+      "upload": "2022-03-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "5:31:20",
+      "lengthSeconds": 19880,
+      "url": "https://www.youtube.com/watch?v=3mMaiHK9Kyo",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": true,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "0TAovGqVu9M",
+      "title": "CPL S8 Preseason Week 2, G42 - Cast by Neblime and packrat386",
+      "views": 11,
+      "likes": 0,
+      "upload": "2022-03-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:00:35",
+      "lengthSeconds": 10835,
+      "url": "https://www.youtube.com/watch?v=0TAovGqVu9M",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            42
+          ]
+        ],
+        "casters": [
+          "Neblime",
+          "packrat386"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "1vFPdIFXvhc",
+      "title": "CPL S8 Preseason Week 2, G29 and G41 - Cast by Saetzero and cold_warpgates",
+      "views": 6,
+      "likes": 1,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:23:29",
+      "lengthSeconds": 8609,
+      "url": "https://www.youtube.com/watch?v=1vFPdIFXvhc",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            29
+          ],
+          [
+            2,
+            41
+          ]
+        ],
+        "casters": [
+          "Saetzero",
+          "cold_warpgates"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Cpk2dUsOgCA",
+      "title": "CPL S8 Preseason Week 1, G26 - Cast by cold_warpgates",
+      "views": 7,
+      "likes": 0,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:54:16",
+      "lengthSeconds": 6856,
+      "url": "https://www.youtube.com/watch?v=Cpk2dUsOgCA",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            26
+          ]
+        ],
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "jisru5tPdtQ",
+      "title": "CPL S8 Preseason Week 2, G30 - Cast by cold_warpgates and packrat386",
+      "views": 8,
+      "likes": 1,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:36:53",
+      "lengthSeconds": 5813,
+      "url": "https://www.youtube.com/watch?v=jisru5tPdtQ",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            30
+          ]
+        ],
+        "casters": [
+          "cold_warpgates",
+          "packrat386"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "VmzmmhC9oGo",
+      "title": "CPL S8 Preseason Week 2, G13 and G17 - Cast by Saetzero and Neblime",
+      "views": 22,
+      "likes": 1,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:36:45",
+      "lengthSeconds": 9405,
+      "url": "https://www.youtube.com/watch?v=VmzmmhC9oGo",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            13
+          ],
+          [
+            2,
+            17
+          ]
+        ],
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "58-n6O2Xcjk",
+      "title": "CPL S8 Preseason Week 2, G18 and G31 - Cast by Forte",
+      "views": 32,
+      "likes": 2,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:52:31",
+      "lengthSeconds": 13951,
+      "url": "https://www.youtube.com/watch?v=58-n6O2Xcjk",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            18
+          ],
+          [
+            2,
+            31
+          ]
+        ],
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "kUPFf0qOqe0",
+      "title": "CPL S8 Preseason Week 2, G25 - Cast by A Bug",
+      "views": 8,
+      "likes": 0,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:56:21",
+      "lengthSeconds": 10581,
+      "url": "https://www.youtube.com/watch?v=kUPFf0qOqe0",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            25
+          ]
+        ],
+        "casters": [
+          "A Bug"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "VOVbaydWjck",
+      "title": "CPL S8 Preseason Week 1, G41 - Cast by cold_warpgates and LeaSt",
+      "views": 6,
+      "likes": 0,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:27:44",
+      "lengthSeconds": 8864,
+      "url": "https://www.youtube.com/watch?v=VOVbaydWjck",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            41
+          ]
+        ],
+        "casters": [
+          "cold_warpgates",
+          "LeaSt"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "bteSbA0Y05c",
+      "title": "CPL S8 Preseason Week 2, G24 - Cast by A Bug",
+      "views": 14,
+      "likes": 1,
+      "upload": "2022-03-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:11:34",
+      "lengthSeconds": 15094,
+      "url": "https://www.youtube.com/watch?v=bteSbA0Y05c",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            24
+          ]
+        ],
+        "casters": [
+          "A Bug"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "zOKhwXUTfb4",
+      "title": "CPL S8 Preseason Week 2, G2 - Cast by Scimo",
+      "views": 13,
+      "likes": 0,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 1,
+      "length": "50:05",
+      "lengthSeconds": 3005,
+      "url": "https://www.youtube.com/watch?v=zOKhwXUTfb4",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            2
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "mUmQ__ot9hM",
+      "title": "CPL S8 Preseason Week 2, G3 - Cast by Scimo",
+      "views": 7,
+      "likes": 0,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "26:09",
+      "lengthSeconds": 1569,
+      "url": "https://www.youtube.com/watch?v=mUmQ__ot9hM",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            3
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "uFNG0AkM640",
+      "title": "CPL S8 Preseason Week 2, G4 - Cast by Scimo",
+      "views": 13,
+      "likes": 0,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 1,
+      "length": "55:17",
+      "lengthSeconds": 3317,
+      "url": "https://www.youtube.com/watch?v=uFNG0AkM640",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            4
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "CXOELepdx7k",
+      "title": "CPL S8 Preseason Week 2, G10 - Cast by Scimo",
+      "views": 7,
+      "likes": 0,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "31:12",
+      "lengthSeconds": 1872,
+      "url": "https://www.youtube.com/watch?v=CXOELepdx7k",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            10
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "chOZ4enrKI0",
+      "title": "CPL S8 Preseason Week 2, G43 - Cast by Scimo",
+      "views": 10,
+      "likes": 0,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "55:48",
+      "lengthSeconds": 3348,
+      "url": "https://www.youtube.com/watch?v=chOZ4enrKI0",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            43
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "lfAaB2RThW8",
+      "title": "CPL S8 Coach Showmatch - 3 matches: PvT, ZvP and TvZ",
+      "views": 24,
+      "likes": 2,
+      "upload": "2022-03-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:17:54",
+      "lengthSeconds": 11874,
+      "url": "https://www.youtube.com/watch?v=lfAaB2RThW8",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": true,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "PrlMQhdmZ-M",
+      "title": "CPL S8 Preseason Week 2, G9 and G36 - Cast by Scimo",
+      "views": 27,
+      "likes": 1,
+      "upload": "2022-03-14T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:54:30",
+      "lengthSeconds": 14070,
+      "url": "https://www.youtube.com/watch?v=PrlMQhdmZ-M",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            9
+          ],
+          [
+            2,
+            36
+          ]
+        ],
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "CPxWnu5dJjE",
+      "title": "CPL S8 TEAM REVEAL STREAM!!",
+      "views": 31,
+      "likes": 3,
+      "upload": "2022-03-14T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:21:00",
+      "lengthSeconds": 4860,
+      "url": "https://www.youtube.com/watch?v=CPxWnu5dJjE",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": true,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Yeg6L4csy1I",
+      "title": "CPL S8 Preseason Week 2, G37 - Cast by cold_warpgates and Neblime",
+      "views": 22,
+      "likes": 1,
+      "upload": "2022-03-17T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:55:15",
+      "lengthSeconds": 10515,
+      "url": "https://www.youtube.com/watch?v=Yeg6L4csy1I",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            37
+          ]
+        ],
+        "casters": [
+          "cold_warpgates",
+          "Neblime"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Ry19cDUouqI",
+      "title": "CPL S8 Preseason Week 1, G40 and G42 - Cast by cold_warpgates and LeaSt",
+      "views": 23,
+      "likes": 0,
+      "upload": "2022-03-17T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:18:08",
+      "lengthSeconds": 8288,
+      "url": "https://www.youtube.com/watch?v=Ry19cDUouqI",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            40
+          ],
+          [
+            1,
+            42
+          ]
+        ],
+        "casters": [
+          "cold_warpgates",
+          "LeaSt"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "gI_xGDWF-ss",
+      "title": "CPL S8 King of the Tiers - Live cast #1 by cold_warpgates",
+      "views": 33,
+      "likes": 1,
+      "upload": "2022-03-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:54:34",
+      "lengthSeconds": 14074,
+      "url": "https://www.youtube.com/watch?v=gI_xGDWF-ss",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": true,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "mUTrLbUiP5U",
+      "title": "CPL S8 King of the Tiers - Live cast #2 by Y2Kid",
+      "views": 29,
+      "likes": 1,
+      "upload": "2022-03-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:18:55",
+      "lengthSeconds": 4735,
+      "url": "https://www.youtube.com/watch?v=mUTrLbUiP5U",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": true,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "-LMRzlCVDQc",
+      "title": "CPL S8 Preseason Week 2, G39 + Week 1, G43 and G44 - Cast by Saetzero and Neblime",
+      "views": 38,
+      "likes": 2,
+      "upload": "2022-03-23T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:57:26",
+      "lengthSeconds": 7046,
+      "url": "https://www.youtube.com/watch?v=-LMRzlCVDQc",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            39
+          ],
+          [
+            1,
+            43
+          ],
+          [
+            1,
+            44
+          ]
+        ],
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "JsN0y_cHfsg",
+      "title": "CPL S8 Preseason Week 1, G28 and G37 - Cast by Neblime and Saetzero",
+      "views": 29,
+      "likes": 0,
+      "upload": "2022-03-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:38:56",
+      "lengthSeconds": 9536,
+      "url": "https://www.youtube.com/watch?v=JsN0y_cHfsg",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            28
+          ],
+          [
+            1,
+            37
+          ]
+        ],
+        "casters": [
+          "Neblime",
+          "Saetzero"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "M0QZ6gmTFZM",
+      "title": "CPL S8 King of the Tiers FINALS (All Tiers) - Cast by cold_warpgates, Saetzero and Forte",
+      "views": 62,
+      "likes": 1,
+      "upload": "2022-03-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:29:43",
+      "lengthSeconds": 12583,
+      "url": "https://www.youtube.com/watch?v=M0QZ6gmTFZM",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [
+          "cold_warpgates",
+          "Saetzero",
+          "Forte"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": true,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "ADywUKjIbpM",
+      "title": "CPL S8 Preseason Week 1, G33 (Part 1) - Cast by cold_warpgates",
+      "views": 8,
+      "likes": 1,
+      "upload": "2022-03-29T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:16:11",
+      "lengthSeconds": 4571,
+      "url": "https://www.youtube.com/watch?v=ADywUKjIbpM",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            33
+          ]
+        ],
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "0PqVeBJbZpo",
+      "title": "CPL S8 Preseason Week 1, G33 (Part 2) - Cast by cold_warpgates",
+      "views": 16,
+      "likes": 4,
+      "upload": "2022-04-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:30:30",
+      "lengthSeconds": 5430,
+      "url": "https://www.youtube.com/watch?v=0PqVeBJbZpo",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            1,
+            33
+          ]
+        ],
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "DP73yGYWcO4",
+      "title": "CPL S8 Preseason Week 2, G27 + Week 1, G37 - Cast by Neblime and Saetzero",
+      "views": 16,
+      "likes": 2,
+      "upload": "2022-04-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:07:16",
+      "lengthSeconds": 7636,
+      "url": "https://www.youtube.com/watch?v=DP73yGYWcO4",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": [
+          [
+            2,
+            27
+          ],
+          [
+            1,
+            37
+          ]
+        ],
+        "casters": [
+          "Neblime",
+          "Saetzero"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": true,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "rqr7Sp7GdzE",
+      "title": "CPL S8 Week 1, Korean Mechanics vs UED, T2 - Cast by cold_warpgates",
+      "views": 26,
+      "likes": 1,
+      "upload": "2022-04-05T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:39:31",
+      "lengthSeconds": 13171,
+      "url": "https://www.youtube.com/watch?v=rqr7Sp7GdzE",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "rV3T4ZiUc3I",
+      "title": "CPL S8 Week 1, GOSU vs Lettuce Attack, T3 - Cast by Forte",
+      "views": 38,
+      "likes": 1,
+      "upload": "2022-04-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:25:27",
+      "lengthSeconds": 8727,
+      "url": "https://www.youtube.com/watch?v=rV3T4ZiUc3I",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "XZoZFhFPFiE",
+      "title": "CPL S8 Week 1, GOSU vs Lettuce Attack, T2 - Cast by Saetzero",
+      "views": 50,
+      "likes": 1,
+      "upload": "2022-04-06T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:13:07",
+      "lengthSeconds": 11587,
+      "url": "https://www.youtube.com/watch?v=XZoZFhFPFiE",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Saetzero"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "R1GwrPA7EkA",
+      "title": "CPL S8 Week 1, GOSU vs Lettuce Attack, T1 - Cast by Forte",
+      "views": 45,
+      "likes": 1,
+      "upload": "2022-04-07T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:54:10",
+      "lengthSeconds": 14050,
+      "url": "https://www.youtube.com/watch?v=R1GwrPA7EkA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "XV5PITU8ytY",
+      "title": "CPL S8 Week 1, 2F2F vs 4 Pool Lifeguards, T2 - Cast by Y2Kid",
+      "views": 21,
+      "likes": 0,
+      "upload": "2022-04-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:34:17",
+      "lengthSeconds": 5657,
+      "url": "https://www.youtube.com/watch?v=XV5PITU8ytY",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Y2Kid"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Nqh_S2-rdEo",
+      "title": "CPL S8 Week 1, 2F2F vs 4 Pool Lifeguards, T1 - Cast by Scimo",
+      "views": 26,
+      "likes": 2,
+      "upload": "2022-04-10T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:56:46",
+      "lengthSeconds": 10606,
+      "url": "https://www.youtube.com/watch?v=Nqh_S2-rdEo",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "DYVh1RgxQjw",
+      "title": "CPL S8 Week 1, GOSU vs Lettuce Attack, T0 - Cast by cold_warpgates and hangs",
+      "views": 23,
+      "likes": 1,
+      "upload": "2022-04-10T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:08:53",
+      "lengthSeconds": 11333,
+      "url": "https://www.youtube.com/watch?v=DYVh1RgxQjw",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "cold_warpgates",
+          "hangs"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "N3d8ju3Gi5c",
+      "title": "CPL S8 Week 1, 2F2F vs 4 Pool Lifeguards, T0 - Cast by iRk-RoyalBlue and Whyimnoob",
+      "views": 25,
+      "likes": 2,
+      "upload": "2022-04-10T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:39:00",
+      "lengthSeconds": 9540,
+      "url": "https://www.youtube.com/watch?v=N3d8ju3Gi5c",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "iRk-RoyalBlue",
+          "Whyimnoob"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "raRCGOCXIQo",
+      "title": "CPL S8 Week 1, 2F2F vs 4 Pool Lifeguards, T3 - Cast by Scimo",
+      "views": 28,
+      "likes": 2,
+      "upload": "2022-04-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:02:28",
+      "lengthSeconds": 14548,
+      "url": "https://www.youtube.com/watch?v=raRCGOCXIQo",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "mDbATPAKlcI",
+      "title": "CPL S8 Week 2, Lettuce Attack vs UED, T2 - Cast by cold_warpgates",
+      "views": 47,
+      "likes": 2,
+      "upload": "2022-04-13T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:53:36",
+      "lengthSeconds": 10416,
+      "url": "https://www.youtube.com/watch?v=mDbATPAKlcI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "MysYAJ5AwdQ",
+      "title": "CPL S8 Week 2, 4 Pool Lifeguards vs GOSU, T0 - Cast by Saetzero and Neblime",
+      "views": 25,
+      "likes": 2,
+      "upload": "2022-04-14T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:23:06",
+      "lengthSeconds": 12186,
+      "url": "https://www.youtube.com/watch?v=MysYAJ5AwdQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "6OBbU2JYrQI",
+      "title": "CPL S8 Week 2, 2F2F vs Korean Mechanics, T2 - Cast by Saetzero and Neblime",
+      "views": 35,
+      "likes": 2,
+      "upload": "2022-04-14T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:22:01",
+      "lengthSeconds": 8521,
+      "url": "https://www.youtube.com/watch?v=6OBbU2JYrQI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "CDxmykr_QWc",
+      "title": "CPL S8 Week 2, 2F2F vs Korean Mechanics, T0 - Cast by cold_warpgates",
+      "views": 30,
+      "likes": 1,
+      "upload": "2022-04-18T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:32:17",
+      "lengthSeconds": 9137,
+      "url": "https://www.youtube.com/watch?v=CDxmykr_QWc",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "jC9eNnlKYFs",
+      "title": "CPL S8 Week 2, Lettuce Attack vs UED, T0 - Cast by Scimo and Charact_R",
+      "views": 44,
+      "likes": 4,
+      "upload": "2022-04-18T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:31:39",
+      "lengthSeconds": 12699,
+      "url": "https://www.youtube.com/watch?v=jC9eNnlKYFs",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Scimo",
+          "Charact_R"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "FGsmRHy2eXg",
+      "title": "CPL S8 Week 2, 4 Pool Lifeguards vs GOSU, T3 - Cast by Charact_R and Peru",
+      "views": 29,
+      "likes": 1,
+      "upload": "2022-04-24T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:06:15",
+      "lengthSeconds": 7575,
+      "url": "https://www.youtube.com/watch?v=FGsmRHy2eXg",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Charact_R",
+          "Peru"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "D7wa4jQAz9U",
+      "title": "CPL S8 Week 3, 2F2F vs GOSU, T1 - Cast by cold_warpgates",
+      "views": 37,
+      "likes": 1,
+      "upload": "2022-04-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:08:07",
+      "lengthSeconds": 11287,
+      "url": "https://www.youtube.com/watch?v=D7wa4jQAz9U",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "MG-_6TcEY_4",
+      "title": "CPL S8 Week 3, Korean Mechanics vs Lettuce Attack, T3 - Cast by Forte",
+      "views": 35,
+      "likes": 1,
+      "upload": "2022-04-21T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:18:44",
+      "lengthSeconds": 11924,
+      "url": "https://www.youtube.com/watch?v=MG-_6TcEY_4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "OMlw_urF6NM",
+      "title": "CPL S8 Week 3, 4 Pool Lifeguards vs UED, T0 - Cast by Saetzero and Neblime",
+      "views": 45,
+      "likes": 2,
+      "upload": "2022-04-21T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:02:45",
+      "lengthSeconds": 10965,
+      "url": "https://www.youtube.com/watch?v=OMlw_urF6NM",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "roFStN8U8zo",
+      "title": "CPL S8 Week 3, 2F2F vs GOSU, T3 - Cast by Saetzero and Neblime",
+      "views": 40,
+      "likes": 0,
+      "upload": "2022-04-22T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:43:13",
+      "lengthSeconds": 9793,
+      "url": "https://www.youtube.com/watch?v=roFStN8U8zo",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "W618pLDe5e4",
+      "title": "CPL S8 Week 3, 2F2F vs GOSU, T2 - Cast by NiteKat",
+      "views": 43,
+      "likes": 3,
+      "upload": "2022-04-23T00:00:00.000Z",
+      "comments": 1,
+      "length": "4:12:22",
+      "lengthSeconds": 15142,
+      "url": "https://www.youtube.com/watch?v=W618pLDe5e4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "NiteKat"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "2vIxJQWLwPU",
+      "title": "CPL S8 Week 4, GOSU vs Korean Mechanics, T0 - Cast by cold_warpgates",
+      "views": 29,
+      "likes": 4,
+      "upload": "2022-04-27T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:46:03",
+      "lengthSeconds": 9963,
+      "url": "https://www.youtube.com/watch?v=2vIxJQWLwPU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "CbEjfxbcw2c",
+      "title": "CPL S8 Week 4, 4 Pool Lifeguards vs Lettuce Attack, T1 and T2 - Cast by Saetzero and Neblime",
+      "views": 57,
+      "likes": 1,
+      "upload": "2022-04-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:15:55",
+      "lengthSeconds": 11755,
+      "url": "https://www.youtube.com/watch?v=CbEjfxbcw2c",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1,
+          2
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "LYu-039iccE",
+      "title": "CPL S8 Week 4, 2F2F vs UED, T2 - Cast by Neblime and cold_warpgates",
+      "views": 42,
+      "likes": 2,
+      "upload": "2022-04-28T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:40:05",
+      "lengthSeconds": 9605,
+      "url": "https://www.youtube.com/watch?v=LYu-039iccE",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "sxztjEEJlFo",
+      "title": "CPL S8 Week 4, 4 Pool Lifeguards vs Lettuce Attack, T3 - Cast by Scimo and Charact_R",
+      "views": 31,
+      "likes": 0,
+      "upload": "2022-05-01T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:10:57",
+      "lengthSeconds": 11457,
+      "url": "https://www.youtube.com/watch?v=sxztjEEJlFo",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "Scimo",
+          "Charact_R"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "jGA2AWLM7mU",
+      "title": "CPL S8 Week 4, 2F2F vs UED, T3 - Cast by Scimo",
+      "views": 52,
+      "likes": 2,
+      "upload": "2022-05-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:18:01",
+      "lengthSeconds": 11881,
+      "url": "https://www.youtube.com/watch?v=jGA2AWLM7mU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "stuA7TMJ6Qs",
+      "title": "CPL S8 Week 4, 2F2F vs UED, T0 - Cast by Neblime and Y2Kid",
+      "views": 14,
+      "likes": 2,
+      "upload": "2022-05-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:39:41",
+      "lengthSeconds": 5981,
+      "url": "https://www.youtube.com/watch?v=stuA7TMJ6Qs",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 4,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Y2Kid"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "zTVs05D7yXc",
+      "title": "CPL S8 Week 5, GOSU vs UED, T0 - Cast by ViR.ReV",
+      "views": 33,
+      "likes": 3,
+      "upload": "2022-05-03T00:00:00.000Z",
+      "comments": 1,
+      "length": "3:37:19",
+      "lengthSeconds": 13039,
+      "url": "https://www.youtube.com/watch?v=zTVs05D7yXc",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "yFLNr1bgTms",
+      "title": "CPL S8 Week 5, 2F2F vs Lettuce Attack, T1 - Cast by cold_warpgates",
+      "views": 33,
+      "likes": 2,
+      "upload": "2022-05-03T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:35:56",
+      "lengthSeconds": 9356,
+      "url": "https://www.youtube.com/watch?v=yFLNr1bgTms",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "nQzr1orot-Y",
+      "title": "CPL S8 Week 5, 2F2F vs Lettuce Attack, T0 - Cast by Saetzero and Neblime",
+      "views": 35,
+      "likes": 1,
+      "upload": "2022-05-04T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:17:19",
+      "lengthSeconds": 11839,
+      "url": "https://www.youtube.com/watch?v=nQzr1orot-Y",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "so6D8cJjBR4",
+      "title": "CPL S8 Week 5, GOSU vs UED, T1 - Cast by Saetzero and Forte",
+      "views": 35,
+      "likes": 0,
+      "upload": "2022-05-05T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:36:07",
+      "lengthSeconds": 9367,
+      "url": "https://www.youtube.com/watch?v=so6D8cJjBR4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "rhHD4GoJAlQ",
+      "title": "CPL S8 Week 5, 4 Pool Lifeguards vs Korean Mechanics, T0 - Cast by ViR.ReV",
+      "views": 33,
+      "likes": 4,
+      "upload": "2022-05-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:47:37",
+      "lengthSeconds": 13657,
+      "url": "https://www.youtube.com/watch?v=rhHD4GoJAlQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Vg_zsCK5eVU",
+      "title": "CPL S8 Week 5, 4 Pool Lifeguards vs Korean Mechanics, T3 - Cast by Dada and Crowbar",
+      "views": 53,
+      "likes": 2,
+      "upload": "2022-05-08T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:54:44",
+      "lengthSeconds": 14084,
+      "url": "https://www.youtube.com/watch?v=Vg_zsCK5eVU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Crowbar"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "rQbabIjMltY",
+      "title": "CPL S8 Week 5, 4 Pool Lifeguards vs Korean Mechanics, T1 - Cast by maaaaxaxa and Zesky",
+      "views": 21,
+      "likes": 0,
+      "upload": "2022-05-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:40:48",
+      "lengthSeconds": 13248,
+      "url": "https://www.youtube.com/watch?v=rQbabIjMltY",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "maaaaxaxa",
+          "Zesky"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "ckdcq-713m4",
+      "title": "CPL S8 Week 5, 2F2F vs Lettuce Attack, T3 - Cast by Scimo",
+      "views": 34,
+      "likes": 1,
+      "upload": "2022-05-15T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:34:15",
+      "lengthSeconds": 9255,
+      "url": "https://www.youtube.com/watch?v=ckdcq-713m4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 5,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "qvguKuClumY",
+      "title": "CPL S8 Week 6, GOSU vs Lettuce Attack, T2 - Cast by cold_warpgates",
+      "views": 61,
+      "likes": 4,
+      "upload": "2022-05-10T00:00:00.000Z",
+      "comments": 1,
+      "length": "1:57:09",
+      "lengthSeconds": 7029,
+      "url": "https://www.youtube.com/watch?v=qvguKuClumY",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 6,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "vki1QHZFr-0",
+      "title": "CPL S8 Week 6, GOSU vs Lettuce Attack, T0 - Cast by Saetzero and Neblime",
+      "views": 37,
+      "likes": 1,
+      "upload": "2022-05-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:01:07",
+      "lengthSeconds": 10867,
+      "url": "https://www.youtube.com/watch?v=vki1QHZFr-0",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 6,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Neblime"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "S2SdSALO3W4",
+      "title": "CPL S8 Week 6, 2F2F vs 4 Pool Lifeguards, T2 - Cast by Saetzero and cold_warpgates",
+      "views": 32,
+      "likes": 0,
+      "upload": "2022-05-12T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:57:23",
+      "lengthSeconds": 10643,
+      "url": "https://www.youtube.com/watch?v=S2SdSALO3W4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 6,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "44275Hjy21I",
+      "title": "CPL S8 Week 6, Korean Mechanics vs UED, T0 - Cast by ViR.ReV",
+      "views": 24,
+      "likes": 3,
+      "upload": "2022-05-14T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:03:25",
+      "lengthSeconds": 11005,
+      "url": "https://www.youtube.com/watch?v=44275Hjy21I",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 6,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "6gF2QW_Turk",
+      "title": "CPL S8 Week 6, 2F2F vs 4 Pool Lifeguards, T3 - Cast by Scimo",
+      "views": 29,
+      "likes": 2,
+      "upload": "2022-05-15T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:03:10",
+      "lengthSeconds": 7390,
+      "url": "https://www.youtube.com/watch?v=6gF2QW_Turk",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 6,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "4 Pool Lifeguards"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "EJ9UzkJTW3w",
+      "title": "CPL S8 Week 7, GOSU vs Korean Mechanics, T1 - Cast by cold_warpgates (Part 1)",
+      "views": 38,
+      "likes": 2,
+      "upload": "2022-05-17T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:14:19",
+      "lengthSeconds": 8059,
+      "url": "https://www.youtube.com/watch?v=EJ9UzkJTW3w",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "w_hlzRID2TI",
+      "title": "CPL S8 Week 7, GOSU vs Korean Mechanics, T1 - Cast by cold_warpgates (Part 2)",
+      "views": 20,
+      "likes": 0,
+      "upload": "2022-05-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:41:09",
+      "lengthSeconds": 6069,
+      "url": "https://www.youtube.com/watch?v=w_hlzRID2TI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "pjmxIN68RbQ",
+      "title": "CPL S8 Week 7, 2F2F vs UED, T3 - Cast by Neblime and Vermin",
+      "views": 9,
+      "likes": 0,
+      "upload": "2022-05-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:59:24",
+      "lengthSeconds": 7164,
+      "url": "https://www.youtube.com/watch?v=pjmxIN68RbQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Vermin"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "qk407cZMDrA",
+      "title": "CPL S8 Week 7, GOSU vs Korean Mechanics, T0 - Cast by ViR.ReV",
+      "views": 24,
+      "likes": 1,
+      "upload": "2022-05-20T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:50:33",
+      "lengthSeconds": 10233,
+      "url": "https://www.youtube.com/watch?v=qk407cZMDrA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "F2Vo-SOz0SU",
+      "title": "CPL S8 Week 7, 2F2F vs UED, T0 - Cast by ViR.ReV",
+      "views": 16,
+      "likes": 1,
+      "upload": "2022-05-21T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:52:26",
+      "lengthSeconds": 10346,
+      "url": "https://www.youtube.com/watch?v=F2Vo-SOz0SU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "YiSTGJ6O7qM",
+      "title": "CPL S8 Week 7, 4 Pool Lifeguards vs Lettuce Attack, T0 - Cast by Scimo",
+      "views": 48,
+      "likes": 4,
+      "upload": "2022-05-22T00:00:00.000Z",
+      "comments": 0,
+      "length": "5:02:17",
+      "lengthSeconds": 18137,
+      "url": "https://www.youtube.com/watch?v=YiSTGJ6O7qM",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "w7L_CoQA0gQ",
+      "title": "CPL S8 Week 7, 4 Pool Lifeguards vs Lettuce Attack, T2 - Cast by Scimo",
+      "views": 18,
+      "likes": 0,
+      "upload": "2022-05-23T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:32:49",
+      "lengthSeconds": 5569,
+      "url": "https://www.youtube.com/watch?v=w7L_CoQA0gQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "x0gc-MPxRJU",
+      "title": "CPL S8 Week 7, 2F2F vs UED, T3 - Cast by Scimo",
+      "views": 18,
+      "likes": 0,
+      "upload": "2022-05-23T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:03:55",
+      "lengthSeconds": 7435,
+      "url": "https://www.youtube.com/watch?v=x0gc-MPxRJU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "MgPmDLwGIFA",
+      "title": "CPL S8 Week 7, 4 Pool Lifeguards vs Lettuce Attack, T3 - Cast by Scimo",
+      "views": 27,
+      "likes": 0,
+      "upload": "2022-05-29T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:28:23",
+      "lengthSeconds": 8903,
+      "url": "https://www.youtube.com/watch?v=MgPmDLwGIFA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 7,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "hAOHAb04xDs",
+      "title": "CPL S8 Week 8, Lettuce Attack vs UED, T0 - Cast by iRk-RoyalBlue and iRk-stanel",
+      "views": 34,
+      "likes": 2,
+      "upload": "2022-05-25T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:38:50",
+      "lengthSeconds": 5930,
+      "url": "https://www.youtube.com/watch?v=hAOHAb04xDs",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 8,
+        "groups": null,
+        "casters": [
+          "iRk-RoyalBlue",
+          "iRk-stanel"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "91eWJLymZo4",
+      "title": "CPL S8 Week 8, 4 Pool Lifeguards vs GOSU, T2 - Cast by Neblime and cold_warpgates",
+      "views": 20,
+      "likes": 2,
+      "upload": "2022-05-27T00:00:00.000Z",
+      "comments": 1,
+      "length": "1:57:49",
+      "lengthSeconds": 7069,
+      "url": "https://www.youtube.com/watch?v=91eWJLymZo4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 8,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "4IGnFgt3p-Y",
+      "title": "CPL S8 Week 8, 4 Pool Lifeguards vs GOSU, T0 - Cast by ViR.ReV",
+      "views": 4,
+      "likes": 1,
+      "upload": "2022-05-28T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:32:28",
+      "lengthSeconds": 9148,
+      "url": "https://www.youtube.com/watch?v=4IGnFgt3p-Y",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 8,
+        "groups": null,
+        "casters": [
+          "ViR.ReV"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "CJxUfxMXfqA",
+      "title": "CPL S8 Week 8, 4 Pool Lifeguards vs GOSU, T1 - Cast by Scimo",
+      "views": 16,
+      "likes": 1,
+      "upload": "2022-05-29T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:31:00",
+      "lengthSeconds": 9060,
+      "url": "https://www.youtube.com/watch?v=CJxUfxMXfqA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 8,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Ny3-nAZGHsk",
+      "title": "CPL S8 Week 9, 4 Pool Lifeguards vs UED, T2 - Cast by Neblime and cold_warpgates",
+      "views": 12,
+      "likes": 0,
+      "upload": "2022-06-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:36:21",
+      "lengthSeconds": 9381,
+      "url": "https://www.youtube.com/watch?v=Ny3-nAZGHsk",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "QFC2xsygvl4",
+      "title": "CPL S8 Week 9, Lettuce Attack vs Korean Mechanics, T0 - Cast by Neblime and iRk-RoyalBlue (Part 1)",
+      "views": 10,
+      "likes": 1,
+      "upload": "2022-06-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:04:45",
+      "lengthSeconds": 7485,
+      "url": "https://www.youtube.com/watch?v=QFC2xsygvl4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "iRk-RoyalBlue"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "AHTLk2Z-lho",
+      "title": "CPL S8 Week 9, Lettuce Attack vs Korean Mechanics, T3 - Cast by Borisu",
+      "views": 18,
+      "likes": 1,
+      "upload": "2022-06-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:28:49",
+      "lengthSeconds": 5329,
+      "url": "https://www.youtube.com/watch?v=AHTLk2Z-lho",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "Borisu"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Jdbeg579NqU",
+      "title": "CPL S8 Week 9, 4 Pool Lifeguards vs UED, T0 - Cast by ViR.ReV and iRk-stanel",
+      "views": 25,
+      "likes": 3,
+      "upload": "2022-06-03T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:43:38",
+      "lengthSeconds": 9818,
+      "url": "https://www.youtube.com/watch?v=Jdbeg579NqU",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "ViR.ReV",
+          "iRk-stanel"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "cYtn3giH-jQ",
+      "title": "CPL S8 Week 9, Lettuce Attack vs Korean Mechanics, T2 - Cast by Forte",
+      "views": 28,
+      "likes": 2,
+      "upload": "2022-06-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:32:13",
+      "lengthSeconds": 9133,
+      "url": "https://www.youtube.com/watch?v=cYtn3giH-jQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Lettuce Attack",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Cb9jZdwgbv8",
+      "title": "CPL S8 Week 9, dbootyz (4PL) vs iRk-RoyalBlue (KM), T0 - Cast by hangs, BoldEgul and LizardKingly",
+      "views": 24,
+      "likes": 2,
+      "upload": "2022-06-06T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:01:30",
+      "lengthSeconds": 3690,
+      "url": "https://www.youtube.com/watch?v=Cb9jZdwgbv8",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 9,
+        "groups": null,
+        "casters": [
+          "hangs",
+          "BoldEgul",
+          "LizardKingly"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": [
+          "dbootyz",
+          "iRk-RoyalBlue"
+        ],
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Ls9Dag_0hh0",
+      "title": "CPL S8 Week 10, 2F2F vs Lettuce Attack, T2 - Cast by Neblime and cold_warpgates",
+      "views": 24,
+      "likes": 1,
+      "upload": "2022-06-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:48:51",
+      "lengthSeconds": 6531,
+      "url": "https://www.youtube.com/watch?v=Ls9Dag_0hh0",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 10,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "cold_warpgates"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "McZpdIkKxfI",
+      "title": "CPL S8 Week 10, 2F2F vs Lettuce Attack, T0 - Cast by maaaaxaxa and Zesky",
+      "views": 27,
+      "likes": 1,
+      "upload": "2022-06-11T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:28:37",
+      "lengthSeconds": 12517,
+      "url": "https://www.youtube.com/watch?v=McZpdIkKxfI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 10,
+        "groups": null,
+        "casters": [
+          "maaaaxaxa",
+          "Zesky"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "STzpO2iyOFc",
+      "title": "CPL S8 King of the Tiers #2 - Live cast by Dada",
+      "views": 35,
+      "likes": 1,
+      "upload": "2022-06-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:13:16",
+      "lengthSeconds": 11596,
+      "url": "https://www.youtube.com/watch?v=STzpO2iyOFc",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [
+          "Dada"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": true,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "6GFIsTMULC4",
+      "title": "CPL S8 King of the Tiers #2 FINALS (T0, T2, T3) - Cast by cold_warpgates and Return",
+      "views": 33,
+      "likes": 2,
+      "upload": "2022-06-15T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:04:10",
+      "lengthSeconds": 7450,
+      "url": "https://www.youtube.com/watch?v=6GFIsTMULC4",
+      "meta": {
+        "season": 8,
+        "tiers": [],
+        "week": null,
+        "groups": null,
+        "casters": [
+          "cold_warpgates",
+          "Return"
+        ],
+        "teamMatchup": null,
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": true,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "s-RSBg9xfig",
+      "title": "CPL S8 Week 10, 4 Pool Lifeguards vs Korean Mechanics, T3 - Cast by Neblime and Return",
+      "views": 18,
+      "likes": 0,
+      "upload": "2022-06-16T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:43:18",
+      "lengthSeconds": 6198,
+      "url": "https://www.youtube.com/watch?v=s-RSBg9xfig",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 10,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Return"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "oe5rvT5c2X4",
+      "title": "CPL S8 Week 10, 4 Pool Lifeguards vs Korean Mechanics, T0 - Cast by Neblime and Return",
+      "views": 22,
+      "likes": 1,
+      "upload": "2022-06-16T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:24:57",
+      "lengthSeconds": 5097,
+      "url": "https://www.youtube.com/watch?v=oe5rvT5c2X4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 10,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Return"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "GwaW41vdUI0",
+      "title": "CPL S8 Quarter-finals, GOSU vs UED, T2 - Cast by cold_warpgates and iRk-RoyalBlue",
+      "views": 18,
+      "likes": 3,
+      "upload": "2022-06-21T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:53:19",
+      "lengthSeconds": 10399,
+      "url": "https://www.youtube.com/watch?v=GwaW41vdUI0",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "cold_warpgates",
+          "iRk-RoyalBlue"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "1S7X2mNbyGk",
+      "title": "CPL S8 Quarter-finals, 4 Pool Lifeguards vs Korean Mechanics, T2 - Cast by Neblime and Return",
+      "views": 18,
+      "likes": 0,
+      "upload": "2022-06-23T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:50:33",
+      "lengthSeconds": 10233,
+      "url": "https://www.youtube.com/watch?v=1S7X2mNbyGk",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Return"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "7RN5FVw0pVo",
+      "title": "CPL S8 Quarter-finals, 4 Pool Lifeguards vs Korean Mechanics, T1 - Cast by Neblime and Return",
+      "views": 12,
+      "likes": 1,
+      "upload": "2022-06-23T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:04:59",
+      "lengthSeconds": 11099,
+      "url": "https://www.youtube.com/watch?v=7RN5FVw0pVo",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Return"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "VfcsHYKDY3g",
+      "title": "CPL S8 Quarter-finals, 4 Pool Lifeguards vs Korean Mechanics, T3 - Cast by Dada",
+      "views": 11,
+      "likes": 0,
+      "upload": "2022-06-27T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:55:19",
+      "lengthSeconds": 6919,
+      "url": "https://www.youtube.com/watch?v=VfcsHYKDY3g",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Dada"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Fp5QzANqjG8",
+      "title": "CPL S8 Quarter-finals, GOSU vs UED, T0 - Cast by cold_warpgates and iRk-RoyalBlue",
+      "views": 14,
+      "likes": 1,
+      "upload": "2022-06-28T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:21:27",
+      "lengthSeconds": 12087,
+      "url": "https://www.youtube.com/watch?v=Fp5QzANqjG8",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "cold_warpgates",
+          "iRk-RoyalBlue"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "msl-xEljcOQ",
+      "title": "CPL S8 Quarter-finals, GOSU vs UED, T1 - Cast by Neblime and Return",
+      "views": 8,
+      "likes": 0,
+      "upload": "2022-06-30T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:44:47",
+      "lengthSeconds": 13487,
+      "url": "https://www.youtube.com/watch?v=msl-xEljcOQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Return"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Q7zqsDlRiM4",
+      "title": "CPL S8 Quarter-finals, GOSU vs UED, T3 - Cast by Return and Supperman",
+      "views": 22,
+      "likes": 3,
+      "upload": "2022-06-30T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:21:28",
+      "lengthSeconds": 12088,
+      "url": "https://www.youtube.com/watch?v=Q7zqsDlRiM4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Return",
+          "Supperman"
+        ],
+        "teamMatchup": [
+          "Gloriously Overpowered Sexy Unicorns",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "gKrxkScXF1g",
+      "title": "CPL S8 Quarter-finals, 4 Pool Lifeguards vs Korean Mechanics, T0 - Cast by Neblime and Zesky",
+      "views": 5,
+      "likes": 1,
+      "upload": "2022-07-01T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:15:26",
+      "lengthSeconds": 15326,
+      "url": "https://www.youtube.com/watch?v=gKrxkScXF1g",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Neblime",
+          "Zesky"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Korean Mechanics"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "qIOcLxd3p2g",
+      "title": "CPL S8 Semi-finals, 2F2F vs GOSU, T3 - Cast by Dada",
+      "views": 29,
+      "likes": 5,
+      "upload": "2022-07-02T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:51:37",
+      "lengthSeconds": 10297,
+      "url": "https://www.youtube.com/watch?v=qIOcLxd3p2g",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Dada"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "tJ8mHGOBSQM",
+      "title": "CPL S8 Semi-finals, Korean Mechanics vs Lettuce Attack, T2 - Cast by Dada and Supperman",
+      "views": 20,
+      "likes": 3,
+      "upload": "2022-07-03T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:57:44",
+      "lengthSeconds": 7064,
+      "url": "https://www.youtube.com/watch?v=tJ8mHGOBSQM",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Supperman"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "Jwwd-B_PhjA",
+      "title": "CPL S8 Semi-finals, Korean Mechanics vs Lettuce Attack, T1 - Cast by Saetzero and Return",
+      "views": 24,
+      "likes": 2,
+      "upload": "2022-07-04T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:29:59",
+      "lengthSeconds": 12599,
+      "url": "https://www.youtube.com/watch?v=Jwwd-B_PhjA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Return"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "B41XMRaOEn0",
+      "title": "CPL S8 Semi-finals, Korean Mechanics vs Lettuce Attack, T3 - Cast by Forte",
+      "views": 9,
+      "likes": 2,
+      "upload": "2022-07-08T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:01:44",
+      "lengthSeconds": 10904,
+      "url": "https://www.youtube.com/watch?v=B41XMRaOEn0",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "wJ3F4o85FjQ",
+      "title": "CPL S8 Semi-finals, 2F2F vs GOSU, T1 - Cast by Dada and Supperman",
+      "views": 21,
+      "likes": 2,
+      "upload": "2022-07-08T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:34:57",
+      "lengthSeconds": 9297,
+      "url": "https://www.youtube.com/watch?v=wJ3F4o85FjQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Supperman"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "RPXNKWBXIsc",
+      "title": "CPL S8 Semi-finals, 2F2F vs GOSU, T2 - Cast by Forte",
+      "views": 19,
+      "likes": 2,
+      "upload": "2022-07-09T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:44:36",
+      "lengthSeconds": 13476,
+      "url": "https://www.youtube.com/watch?v=RPXNKWBXIsc",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "8v_HNJ-f5qQ",
+      "title": "CPL S8 Semi-finals, 2F2F vs GOSU, T0 - Cast by Forte",
+      "views": 32,
+      "likes": 3,
+      "upload": "2022-07-13T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:34:04",
+      "lengthSeconds": 12844,
+      "url": "https://www.youtube.com/watch?v=8v_HNJ-f5qQ",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Forte"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "C7SCBG4eer8",
+      "title": "CPL S8 Semi-finals, Korean Mechanics vs Lettuce Attack, T0 - Cast by Dada, Return and Lanaishot",
+      "views": 15,
+      "likes": 0,
+      "upload": "2022-07-15T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:22:51",
+      "lengthSeconds": 15771,
+      "url": "https://www.youtube.com/watch?v=C7SCBG4eer8",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Return",
+          "Lanaishot"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "EeQ6_Xp08qI",
+      "title": "CPL S8 Finals, 2F2F vs Lettuce Attack, T1 - Cast by Saetzero and Forte",
+      "views": 22,
+      "likes": 2,
+      "upload": "2022-07-15T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:32:17",
+      "lengthSeconds": 12737,
+      "url": "https://www.youtube.com/watch?v=EeQ6_Xp08qI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Saetzero",
+          "Forte"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "iHeLl763dS0",
+      "title": "CPL S8 Finals, 2F2F vs Lettuce Attack, T2 - Cast by Dada, Return and Lanaishot",
+      "views": 33,
+      "likes": 2,
+      "upload": "2022-07-16T00:00:00.000Z",
+      "comments": 0,
+      "length": "2:59:53",
+      "lengthSeconds": 10793,
+      "url": "https://www.youtube.com/watch?v=iHeLl763dS0",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Return",
+          "Lanaishot"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "AxMo-ChYSYg",
+      "title": "CPL S8 Finals, 2F2F vs Lettuce Attack, T3 - Cast by Scimo",
+      "views": 19,
+      "likes": 2,
+      "upload": "2022-07-17T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:00:27",
+      "lengthSeconds": 10827,
+      "url": "https://www.youtube.com/watch?v=AxMo-ChYSYg",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "o6XsH4l6ZFI",
+      "title": "CPL S8 Finals, 2F2F vs Lettuce Attack, T0 - Cast by Dada, Supperman and Lanaishot",
+      "views": 64,
+      "likes": 5,
+      "upload": "2022-07-21T00:00:00.000Z",
+      "comments": 0,
+      "length": "4:39:07",
+      "lengthSeconds": 16747,
+      "url": "https://www.youtube.com/watch?v=o6XsH4l6ZFI",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Dada",
+          "Supperman",
+          "Lanaishot"
+        ],
+        "teamMatchup": [
+          "2 Fact 2 Furious",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": false,
+        "isTeamReveal": false,
+        "isPlayoffs": true,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "yr2cJAd3X9g",
+      "title": "CPL S8 Week 3, Korean Mechanics vs Lettuce Attack, T0 - Cast by Scimo",
+      "views": 24,
+      "likes": 1,
+      "upload": "2022-09-25T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:02:33",
+      "lengthSeconds": 10953,
+      "url": "https://www.youtube.com/watch?v=yr2cJAd3X9g",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "pXFmrdS0sVA",
+      "title": "CPL S8 Week 1, Korean Mechanics vs UED, T3 - Cast by Scimo",
+      "views": 38,
+      "likes": 4,
+      "upload": "2022-10-15T00:00:00.000Z",
+      "comments": 1,
+      "length": "2:03:02",
+      "lengthSeconds": 7382,
+      "url": "https://www.youtube.com/watch?v=pXFmrdS0sVA",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          3
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "DOHmotUAEf8",
+      "title": "CPL S8 Week 1, Korean Mechanics vs UED, T0 - Cast by Scimo",
+      "views": 35,
+      "likes": 1,
+      "upload": "2022-10-17T00:00:00.000Z",
+      "comments": 0,
+      "length": "3:39:42",
+      "lengthSeconds": 13182,
+      "url": "https://www.youtube.com/watch?v=DOHmotUAEf8",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          0
+        ],
+        "week": 1,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "OP8l_b4foPE",
+      "title": "CPL S8 Week 3, Korean Mechanics vs Lettuce Attack, T1 - Cast by Scimo",
+      "views": 19,
+      "likes": 1,
+      "upload": "2022-11-16T00:00:00.000Z",
+      "comments": 0,
+      "length": "5:43:52",
+      "lengthSeconds": 20632,
+      "url": "https://www.youtube.com/watch?v=OP8l_b4foPE",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "Korean Mechanics",
+          "Lettuce Attack"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "227vB5eLTo8",
+      "title": "CPL S8 Week 2, 4 Pool Lifeguards vs GOSU, T2 - Cast by Scimo",
+      "views": 18,
+      "likes": 1,
+      "upload": "2022-11-22T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:19:02",
+      "lengthSeconds": 4742,
+      "url": "https://www.youtube.com/watch?v=227vB5eLTo8",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          2
+        ],
+        "week": 2,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "Gloriously Overpowered Sexy Unicorns"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    },
+    {
+      "id": "lCgCKK2BXr4",
+      "title": "CPL S8 Week 3, 4 Pool Lifeguards vs UED, T1 - Cast by Scimo",
+      "views": 28,
+      "likes": 2,
+      "upload": "2022-11-22T00:00:00.000Z",
+      "comments": 0,
+      "length": "1:16:34",
+      "lengthSeconds": 4594,
+      "url": "https://www.youtube.com/watch?v=lCgCKK2BXr4",
+      "meta": {
+        "season": 8,
+        "tiers": [
+          1
+        ],
+        "week": 3,
+        "groups": null,
+        "casters": [
+          "Scimo"
+        ],
+        "teamMatchup": [
+          "4 Pool Lifeguards",
+          "United Emu Directorate"
+        ],
+        "playerMatchup": null,
+        "event": {},
+        "isMOTW": false,
+        "isKOTT": false,
+        "isSeasonVideo": true,
+        "isSingleMatch": false,
+        "isPreseason": false,
+        "isRegularSeason": true,
+        "isTeamReveal": false,
+        "isPlayoffs": false,
+        "isRaceWars": false,
+        "isShowmatch": false,
+        "isHypeVideo": null
+      }
+    }
+  ]
+}

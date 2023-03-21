@@ -1,9 +1,5 @@
 {
-  "teamAliases": {
-    "GOSU": "Gloriously Overpowered Sexy Unicorns",
-    "UED": "United Emu Directorate",
-    "2F2F": "2 Fact 2 Furious"
-  },
+  "seasonNumber": "8",
   "teams": [
     {
       "name": "Gloriously Overpowered Sexy Unicorns",
@@ -13,12 +9,12 @@
     },
     {
       "name": "Lettuce Attack",
-      "titleAliases": [],
+      "titleAliases": ["LA"],
       "tlLogoImage": "Lettuce_Attack_CPLS8-T2_full_allmode.png"
     },
     {
       "name": "4 Pool Lifeguards",
-      "titleAliases": [],
+      "titleAliases": ["4PL"],
       "tlLogoImage": "4_Pool_Lifeguards_CPLS8-T3_full_allmode.png"
     },
     {
@@ -28,7 +24,7 @@
     },
     {
       "name": "Korean Mechanics",
-      "titleAliases": [],
+      "titleAliases": ["KM"],
       "tlLogoImage": "Korean_Mechanics_CPLS8-T5_full_allmode.png"
     },
     {
@@ -37,6 +33,10 @@
       "tlLogoImage": "United_Emu_Directorate_CPLS8-T6_full_allmode.png"
     }
   ],
+  "dates": {
+    "start": "2022-03-28",
+    "end": "2022-07-03"
+  },
   "preseason": {
     "mapPool": {
       "1": "Polypoid",
@@ -54,7 +54,7 @@
       "7": "2022-05-09",
       "8": "2022-05-16",
       "9": "2022-05-23",
-      "10": "2022-06-30"
+      "10": "2022-05-30"
     },
     "mapPool": {
       "1": ["Neo Sylphid", "GOOD NIGHT", "Butter"],
@@ -68,5 +68,22 @@
       "9": ["Polypoid", "Butter", "GOOD NIGHT"],
       "10": ["Eclipse", "Neo Sylphid", "Polypoid"]
     }
+  },
+  "playoffs": {
+    "weeks": {
+      "1": "2022-06-13",
+      "2": "2022-06-20",
+      "3": "2022-06-27"
+    },
+    "mapPool": {
+      "1": ["Butter", "GOOD NIGHT", "Eclipse"],
+      "2": ["Polypoid", "Neo Sylphid", "Butter"],
+      "3": ["GOOD NIGHT", "Eclipse", "Polypoid"]
+    },
+    "results": [
+      ["LA", "2F2F"],
+      ["GOSU", "KM"],
+      ["UED", "4PL"]
+    ]
   }
 }
