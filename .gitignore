@@ -1,6 +1,8 @@
 # Development files
 _source/
-data/
+data/**/replays
+data/maps
+data/cache
 
 # Logs
 npm-debug.log*

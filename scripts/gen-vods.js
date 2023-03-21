@@ -3,8 +3,8 @@
 
 const path = require('path')
 const sortBy = require('lodash.sortby')
-const {getVodsLocal, getVodsLocalFilename} = require('./get-vods')
-const {loadJSON, genTeamMatchResults, genWeeklyMapPool, getCPLSeasonData, genComments} = require('../lib')
+const {getVodsLocal} = require('./get-vods')
+const {loadJSON, genTeamMatchResults, genWeeklyMapPool, pathCPLSeasonVods, getCPLSeasonData, genComments} = require('../lib')
 
 function categorizeVods(dataVods) {
   const vodCats = {
@@ -91,9 +91,9 @@ function getVodsList(vodCats, sortByPlaylistOrder) {
   return buffer
 }
 
-async function generateVodsList(seasonNumber, sortByPlaylistOrder = true) {
+async function generateVodsList(seasonNumber, sortByPlaylistOrder = true, clearCache = false) {
   const seasonData = await getCPLSeasonData(seasonNumber)
-  const fileLocal = path.basename(getVodsLocalFilename(seasonNumber))
+  const fileLocal = path.basename(pathCPLSeasonVods(seasonNumber))
 
   const dataVods = await getVodsLocal(seasonNumber)
   const catVods = categorizeVods(dataVods)

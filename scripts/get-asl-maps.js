@@ -2,15 +2,14 @@
 // © MIT license
 
 const chalk = require('chalk')
-const cheerio = require('cheerio')
 const path = require('path')
 const mkdirp = require('mkdirp')
 const fs = require('fs').promises
 const filenamify = require('filenamify')
-const fetch = require('node-fetch')
 const {arrUniq} = require('../lib/data')
 const {sleep} = require('../lib/misc')
 const {getPlaylistVideos} = require('../lib/youtube')
+const {fetchAndParse, fetchDownload} = require('../lib/scrape')
 
 /** URL on which we can find the ASL maps. */
 const aslMapsBase = `https://910map.tistory.com`
@@ -233,25 +232,6 @@ function getCategories($) {
     }
   })
   return blocks
-}
-
-/**
- * Fetches a URL and returns a parsed Cheerio object.
- */
-async function fetchAndParse(url) {
-  const res = await fetch(url)
-  const html = await res.text()
-  const $ = cheerio.load(html)
-  return $
-}
-
-/**
- * Downloads a URL to a file.
- */
-async function fetchDownload(url, target) {
-  const res = await fetch(url)
-  const buffer = Buffer.from(await res.arrayBuffer())
-  await fs.writeFile(target, buffer, null)
 }
 
 /**

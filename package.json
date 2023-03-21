@@ -19,16 +19,24 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.10",
+    "cli-table3": "^0.6.2",
+    "csv-stringify": "^6.2.0",
     "dada-cli-tools": "^1.0.0",
     "fast-glob": "^3.2.11",
+    "fetch-cookie": "^2.1.0",
+    "file-cookie-store": "https://github.com/msikma/file-cookie-store",
     "filenamify": "^4.3.0",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.orderby": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "lodash.range": "^3.2.0",
     "lodash.sortby": "^4.7.0",
     "mkdirp": "^1.0.4",
     "node-fetch": "^2.0.0",
     "screp-js-file": "^0.2.0",
-    "screptools-process": "^0.1.2",
+    "screptools-process": "^0.1.5",
+    "sctoolsdata": "^0.1.5",
+    "stats-median": "^1.0.1",
     "tinyduration": "^3.2.2"
   }
 }
